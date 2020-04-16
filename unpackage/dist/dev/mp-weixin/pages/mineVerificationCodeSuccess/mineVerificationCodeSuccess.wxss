@@ -1,0 +1,16 @@
+.success image.data-v-68964d3e {
+  width: 90rpx;
+  height: 90rpx;
+  margin: 100rpx 330rpx 80rpx;
+}
+.success button.data-v-68964d3e {
+  width: 690rpx;
+  height: 80rpx;
+  background: #279524;
+  border-radius: 40rpx;
+  font-size: 36rpx;
+  font-family: Source Han Sans CN;
+  font-weight: 400;
+  color: #fffefe;
+}
+

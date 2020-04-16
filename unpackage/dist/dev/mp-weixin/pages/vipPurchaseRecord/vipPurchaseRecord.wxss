@@ -1,0 +1,52 @@
+.give-record .head.data-v-b1569c68 {
+  width: 690rpx;
+  height: 62rpx;
+  margin: 20rpx auto;
+  background-color: #fff;
+  border-radius: 10rpx;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: space-evenly;
+  -webkit-justify-content: space-evenly;
+          justify-content: space-evenly;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  text-align: center;
+}
+.give-record .head > view.data-v-b1569c68 {
+  font-size: 28rpx;
+  font-family: Microsoft YaHei;
+  font-weight: 400;
+  color: #333;
+  width: 33.33%;
+}
+.give-record .footer.data-v-b1569c68 {
+  border-radius: 10rpx;
+  width: 690rpx;
+  height: 100%;
+  margin: auto;
+  box-sizing: border-box;
+  background-color: #fff;
+}
+.give-record .footer .content.data-v-b1569c68 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: space-evenly;
+  -webkit-justify-content: space-evenly;
+          justify-content: space-evenly;
+  text-align: center;
+  border-bottom: 1rpx solid #f1f1f1;
+}
+.give-record .footer .content > view.data-v-b1569c68 {
+  height: 80rpx;
+  line-height: 80rpx;
+  font-size: 28rpx;
+  font-family: Microsoft YaHei;
+  font-weight: 400;
+  color: #333;
+  width: 33.33%;
+}
+

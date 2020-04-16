@@ -1,0 +1,66 @@
+.active.data-v-02ab1d68 {
+  background-color: #279524 !important;
+  opacity: 1 !important;
+}
+.box.data-v-02ab1d68 {
+  background-color: #fff;
+}
+.verification-code.data-v-02ab1d68 {
+  margin-top: 20rpx;
+}
+.verification-code .code-box.data-v-02ab1d68 {
+  margin-left: 40rpx;
+  height: 88rpx;
+  line-height: 88rpx;
+  background-color: #fff;
+  border-bottom: 1rpx solid #f1f1f1;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+}
+.verification-code .code-box input.data-v-02ab1d68 {
+  width: 100%;
+  padding-left: 10rpx;
+}
+.verification-code .code-box .placeholder-tel.data-v-02ab1d68 {
+  font-size: 26rpx;
+  font-family: Microsoft YaHei;
+  font-weight: 400;
+  color: #999999;
+}
+.verification-code .code-box .box-text.data-v-02ab1d68 {
+  margin-right: 30rpx;
+  width: 180rpx;
+  height: 50rpx;
+  line-height: 50rpx;
+  text-align: center;
+  background: #bfbfbf;
+  border-radius: 10rpx;
+  font-size: 24rpx;
+  font-family: Microsoft YaHei;
+  font-weight: 400;
+  color: #ffffff;
+}
+.verification-code .code-btn.data-v-02ab1d68 {
+  width: 630rpx;
+  height: 90rpx;
+  border-radius: 42rpx;
+  margin: 73rpx auto;
+}
+.verification-code .code-btn .btn.data-v-02ab1d68 {
+  width: 100%;
+  background: #279524;
+  opacity: 0.5;
+  border-radius: 42rpx;
+  font-size: 36rpx;
+  font-family: Source Han Sans CN;
+  font-weight: 400;
+  color: #ffffff;
+}
+

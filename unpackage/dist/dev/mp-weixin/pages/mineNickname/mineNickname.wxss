@@ -1,0 +1,58 @@
+image.data-v-3b48210c {
+  width: 100%;
+  height: 100%;
+}
+.active.data-v-3b48210c {
+  background-color: #279524 !important;
+  opacity: 1 !important;
+}
+.nickname .nickname-content.data-v-3b48210c {
+  padding: 0 30rpx;
+  background-color: #fff;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  height: 100rpx;
+  margin-top: 20rpx;
+}
+.nickname .nickname-content input.data-v-3b48210c {
+  height: 100%;
+  width: 90%;
+}
+.nickname .nickname-content .tel-nickname-class.data-v-3b48210c {
+  font-size: 30rpx;
+  font-family: Source Han Sans CN;
+  font-weight: 400;
+  color: #c9c8cf;
+}
+.nickname .nickname-content .clear.data-v-3b48210c {
+  width: 38rpx;
+  height: 38rpx;
+}
+.nickname .nickname-content .clear ._i.data-v-3b48210c {
+  width: 100%;
+  height: 100%;
+}
+.nickname .nickname-btn.data-v-3b48210c {
+  width: 630rpx;
+  height: 90rpx;
+  border-radius: 42rpx;
+  margin: 150rpx auto;
+}
+.nickname .nickname-btn .btn.data-v-3b48210c {
+  width: 100%;
+  background: #279524;
+  opacity: 0.5;
+  border-radius: 42rpx;
+  font-size: 36rpx;
+  font-family: Source Han Sans CN;
+  font-weight: 400;
+  color: #ffffff;
+}
+

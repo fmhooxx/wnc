@@ -1,0 +1,51 @@
+image.data-v-015f619c {
+  width: 100%;
+  height: 100%;
+}
+.friend-list.data-v-015f619c {
+  margin-top: 30rpx;
+}
+.friend-list .list-item.data-v-015f619c {
+  background-color: #fff;
+  padding: 27rpx 27rpx 27rpx 30rpx;
+  height: 150rpx;
+  width: 100%;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  box-sizing: border-box;
+  margin-bottom: 4rpx;
+}
+.friend-list .list-item .item-left.data-v-015f619c {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+}
+.friend-list .list-item .item-left .left-img.data-v-015f619c {
+  width: 96rpx;
+  height: 96rpx;
+  margin-right: 25rpx;
+}
+.friend-list .list-item .item-left .left-content .content-title.data-v-015f619c {
+  font-size: 26rpx;
+  font-family: Source Han Sans CN;
+  font-weight: 400;
+  color: #333333;
+  margin: 18rpx 0 10rpx 0;
+}
+.friend-list .list-item .item-left .left-content .content-text.data-v-015f619c {
+  font-size: 22rpx;
+  font-family: Microsoft YaHei;
+  font-weight: 400;
+  color: #999999;
+}
+.friend-list .list-item .item-left .left-content .content-text > text.data-v-015f619c {
+  margin-left: 6rpx;
+}
+

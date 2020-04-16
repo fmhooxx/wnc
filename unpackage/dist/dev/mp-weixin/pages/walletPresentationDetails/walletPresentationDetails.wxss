@@ -1,0 +1,57 @@
+image.data-v-0befb4e8 {
+  width: 100%;
+  height: 100%;
+}
+.presentation-details .list .list-item.data-v-0befb4e8 {
+  padding: 0 30rpx;
+  background-color: #fff;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  font-family: Microsoft YaHei;
+  font-weight: 400;
+  height: 121rpx;
+  box-sizing: border-box;
+  border-bottom: 2rpx solid #eeeeee;
+}
+.presentation-details .list .list-item .item-left .left-card.data-v-0befb4e8 {
+  font-size: 30rpx;
+  color: #333333;
+}
+.presentation-details .list .list-item .item-left .left-data.data-v-0befb4e8 {
+  font-size: 24rpx;
+  color: #666666;
+  margin-top: 10rpx;
+}
+.presentation-details .list .list-item .item-right.data-v-0befb4e8 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+}
+.presentation-details .list .list-item .item-right .right-content.data-v-0befb4e8 {
+  text-align: right;
+}
+.presentation-details .list .list-item .item-right .right-content .content-price.data-v-0befb4e8 {
+  font-size: 30rpx;
+  color: #333333;
+}
+.presentation-details .list .list-item .item-right .right-content .content-balance.data-v-0befb4e8 {
+  font-size: 24rpx;
+  color: #666666;
+  margin-top: 10rpx;
+}
+.presentation-details .list .list-item .item-right .content-img.data-v-0befb4e8 {
+  width: 16rpx;
+  height: 26rpx;
+  margin-left: 20rpx;
+}
+

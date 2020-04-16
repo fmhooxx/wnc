@@ -1,0 +1,169 @@
+.order.data-v-6ce4a60c {
+  position: relative;
+}
+.order .active.data-v-6ce4a60c {
+  color: #279524 !important;
+  border-bottom: 4rpx solid #279524;
+}
+.order .tabs.data-v-6ce4a60c {
+  line-height: 86rpx;
+  margin-bottom: 20rpx;
+  background-color: #fff;
+}
+.order .tabs .tabs-box.data-v-6ce4a60c {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  white-space: nowrap;
+}
+.order .tabs .tabs-box .tabs-item.data-v-6ce4a60c {
+  margin: 0 34rpx;
+  display: inline-block;
+  font-size: 30rpx;
+  text-align: center;
+  font-family: Source Han Sans CN;
+  font-weight: 400;
+  color: #666666;
+}
+.order .list .list-item.data-v-6ce4a60c {
+  padding: 30rpx 28rpx 0 28rpx;
+  height: 532rpx;
+  background: #ffffff;
+  font-size: 30rpx;
+  font-family: Source Han Sans CN;
+  font-weight: 400;
+  color: #666666;
+  text-align: right;
+  border-bottom: 20rpx;
+  margin-bottom: 20rpx;
+}
+.order .list .list-item .item-title.data-v-6ce4a60c {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+  margin-bottom: 40rpx;
+  padding-bottom: 30rpx;
+  border-bottom: 1rpx solid #f1f1f1;
+}
+.order .list .list-item .item-img-box.data-v-6ce4a60c {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  white-space: nowrap;
+  margin: auto;
+  background: #f7f7f7;
+  border-radius: 10rpx;
+  padding: 30rpx;
+  box-sizing: border-box;
+  text-align: left;
+}
+.order .list .list-item .item-img-box image.data-v-6ce4a60c {
+  width: 140rpx;
+  height: 140rpx;
+  display: inline-block;
+  margin-right: 22rpx;
+  border-radius: 10rpx;
+}
+.order .list .list-item .item-content.data-v-6ce4a60c {
+  font-family: Microsoft YaHei;
+  font-weight: bold;
+  margin-bottom: 20rpx;
+  padding: 30rpx 0 30rpx;
+  color: #333;
+  border-bottom: 1rpx solid red;
+  border-bottom: 1rpx solid #f7f7f7;
+}
+.order .list .list-item .item-content .one.data-v-6ce4a60c {
+  font-size: 30rpx;
+  color: #666;
+  font-weight: 400;
+}
+.order .list .list-item .item-content .two.data-v-6ce4a60c {
+  font-size: 24rpx;
+}
+.order .list .list-item .item-content .three.data-v-6ce4a60c {
+  font-size: 30rpx;
+}
+.order .list .list-item .item-content .four.data-v-6ce4a60c {
+  font-size: 24rpx;
+}
+.order .list .list-item .modify.data-v-6ce4a60c {
+  float: right;
+  width: 150rpx;
+  height: 56rpx;
+  line-height: 56rpx;
+  text-align: center;
+  background: #ffffff;
+  border: 2rpx solid #e5e5e5;
+  border-radius: 28rpx;
+  font-size: 26rpx;
+  font-family: Source Han Sans CN;
+  font-weight: 400;
+  color: #666666;
+}
+.order .list .list-item .footer.data-v-6ce4a60c {
+  float: right;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+}
+.order .list .list-item .footer > view.data-v-6ce4a60c {
+  width: 150rpx;
+  height: 56rpx;
+  line-height: 56rpx;
+  text-align: center;
+  background: #ffffff;
+  border: 2rpx solid #e5e5e5;
+  border-radius: 28rpx;
+  font-size: 26rpx;
+  font-family: Source Han Sans CN;
+  font-weight: 400;
+  color: #666666;
+}
+.order .list .list-item .footer .logistics.data-v-6ce4a60c {
+  margin: 0 16rpx;
+}
+.order .list .list-item .footer .confirm.data-v-6ce4a60c {
+  border: 2rpx solid #5ac36b;
+  color: #5ac36b;
+}
+.order .list .list-item .payment.data-v-6ce4a60c {
+  float: right;
+  width: 150rpx;
+  height: 56rpx;
+  line-height: 56rpx;
+  text-align: center;
+  background: #fd484d;
+  border-radius: 28rpx;
+  font-size: 26rpx;
+  font-family: Source Han Sans CN;
+  font-weight: 400;
+  color: #ffffff;
+}
+.order .no-index-news.data-v-6ce4a60c {
+  width: 335rpx;
+  height: 412rpx;
+  position: absolute;
+  top: 264rpx;
+  left: 208rpx;
+  text-align: center;
+}
+.order .no-index-news > image.data-v-6ce4a60c {
+  width: 390rpx;
+  height: 336rpx;
+}
+.order .no-index-news > view.data-v-6ce4a60c {
+  font-family: Source Han Sans CN;
+  font-weight: 400;
+  color: #279524;
+  font-size: 28rpx;
+}
+.order .no-index-news .info.data-v-6ce4a60c {
+  margin: 44rpx 0 28rpx 0;
+  font-size: 30rpx;
+  color: #666;
+}
+

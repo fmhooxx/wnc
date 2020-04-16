@@ -1,0 +1,83 @@
+image.data-v-c66482a8 {
+  width: 100%;
+  height: 100%;
+}
+.my-team .team-header.data-v-c66482a8 {
+  height: 302rpx;
+  background: #48bc5b;
+  margin-bottom: 20rpx;
+}
+.my-team .team-header .header-box.data-v-c66482a8 {
+  font-family: Source Han Sans CN;
+  font-weight: 400;
+  color: #ffffff;
+  margin: 0 auto;
+  text-align: center;
+  padding-top: 100rpx;
+  box-sizing: border-box;
+  width: 120rpx;
+}
+.my-team .team-header .header-box .header-title.data-v-c66482a8 {
+  height: 29rpx;
+  font-size: 30rpx;
+  margin-bottom: 34rpx;
+}
+.my-team .team-header .header-box .header-text.data-v-c66482a8 {
+  font-size: 88rpx;
+}
+.my-team .team-list .list-item.data-v-c66482a8 {
+  padding: 27rpx 27rpx 27rpx 30rpx;
+  height: 150rpx;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  box-sizing: border-box;
+  background-color: #fff;
+  margin-bottom: 4rpx;
+}
+.my-team .team-list .list-item .item-left.data-v-c66482a8 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+}
+.my-team .team-list .list-item .item-left .left-img.data-v-c66482a8 {
+  width: 96rpx;
+  height: 96rpx;
+  margin-right: 25rpx;
+}
+.my-team .team-list .list-item .item-left .left-content .content-title.data-v-c66482a8 {
+  font-size: 26rpx;
+  font-family: Source Han Sans CN;
+  font-weight: 400;
+  color: #333333;
+  margin: 18rpx 0 10rpx 0;
+}
+.my-team .team-list .list-item .item-left .left-content .content-text.data-v-c66482a8 {
+  font-size: 22rpx;
+  font-family: Microsoft YaHei;
+  font-weight: 400;
+  color: #999999;
+}
+.my-team .team-list .list-item .item-left .left-content .content-text > text.data-v-c66482a8 {
+  margin-left: 6rpx;
+}
+.my-team .team-list .list-item .item-right.data-v-c66482a8 {
+  width: 100rpx;
+  height: 34rpx;
+  line-height: 34rpx;
+  text-align: center;
+  background: #ffffff;
+  border: 1rpx solid #48bc5b;
+  border-radius: 6rpx;
+  font-size: 22rpx;
+  font-family: Source Han Sans CN;
+  font-weight: 400;
+  color: #48bc5b;
+}
+

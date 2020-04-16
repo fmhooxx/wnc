@@ -1,0 +1,92 @@
+image.data-v-da0957a0 {
+  width: 100%;
+  height: 100%;
+  vertical-align: center;
+}
+.common-problem .common-problem-title.data-v-da0957a0 {
+  font-size: 26rpx;
+  font-family: Source Han Sans CN;
+  font-weight: 400;
+  color: #666666;
+  margin: 23rpx 0 22rpx 32rpx;
+}
+.common-problem .list .list-item.data-v-da0957a0 {
+  background-color: #fff;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+  height: 88rpx;
+  line-height: 88rpx;
+  padding-left: 31rpx;
+  padding-right: 34rpx;
+  box-sizing: border-box;
+  border-bottom: 1rpx solid #ececec;
+}
+.common-problem .list .list-item .item-left.data-v-da0957a0 {
+  font-size: 32rpx;
+  font-family: Source Han Sans CN;
+  font-weight: 400;
+  color: #333333;
+}
+.common-problem .list .list-item .item-right.data-v-da0957a0 {
+  width: 16rpx;
+  height: 28rpx;
+}
+.common-problem .footer.data-v-da0957a0 {
+  position: fixed;
+  bottom: 0;
+  height: 130rpx;
+  width: 100%;
+  background: #ffffff;
+}
+.common-problem .footer .footer-box.data-v-da0957a0 {
+  margin-top: 24rpx;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+          justify-content: center;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+}
+.common-problem .footer .footer-box .footer-left .left-img.data-v-da0957a0 {
+  position: relative;
+  width: 90rpx;
+  height: 90rpx;
+  margin-right: 50rpx;
+}
+.common-problem .footer .footer-box .footer-left .left-img .left-text.data-v-da0957a0 {
+  position: absolute;
+  top: -4rpx;
+  right: -20rpx;
+  width: 50rpx;
+  height: 26rpx;
+  line-height: 26rpx;
+  text-align: center;
+  background: #fc5854;
+  border-radius: 13rpx;
+  font-size: 18rpx;
+  font-family: Source Han Sans CN;
+  font-weight: 400;
+  color: #ffffff;
+}
+.common-problem .footer .footer-box .footer-right.data-v-da0957a0 {
+  font-family: Source Han Sans CN;
+  font-weight: 400;
+}
+.common-problem .footer .footer-box .footer-right .right-title.data-v-da0957a0 {
+  font-size: 26rpx;
+  color: #333333;
+  margin-bottom: 14rpx;
+  margin-left: 7rpx;
+}
+.common-problem .footer .footer-box .footer-right .right-text.data-v-da0957a0 {
+  font-size: 22rpx;
+  color: #666666;
+}
+

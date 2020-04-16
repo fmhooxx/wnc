@@ -1,0 +1,83 @@
+
+page {
+  background-color: #fff;
+}
+
+image.data-v-665c6e6c {
+  width: 100%;
+  height: 100%;
+}
+.feedback.data-v-665c6e6c {
+  padding: 0 30rpx;
+}
+.feedback .textarea-placeholder.data-v-665c6e6c {
+  font-size: 30rpx;
+  color: #999;
+}
+.feedback .title.data-v-665c6e6c {
+  height: 222rpx;
+  font-size: 30rpx;
+  line-height: 60rpx;
+  padding-top: 52rpx;
+  box-sizing: border-box;
+  font-family: Source Han Sans CN;
+  font-weight: 400;
+  color: #333;
+}
+.feedback .box.data-v-665c6e6c {
+  margin: 50rpx 0 70rpx 0;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-flex-wrap: wrap;
+          flex-wrap: wrap;
+}
+.feedback .box > view.data-v-665c6e6c {
+  margin-right: 12rpx;
+  margin-bottom: 12rpx;
+}
+.feedback .box .preview.data-v-665c6e6c {
+  width: 160rpx;
+  height: 160rpx;
+}
+.feedback .box .content.data-v-665c6e6c {
+  width: 160rpx;
+  height: 160rpx;
+  text-align: center;
+  box-sizing: border-box;
+  background: #ffffff;
+  border: 2rpx dashed #c5c5c5;
+  border-radius: 10rpx;
+}
+.feedback .box .content image.data-v-665c6e6c {
+  margin-top: 31rpx;
+  width: 60rpx;
+  height: 50rpx;
+}
+.feedback .box .content .content-text.data-v-665c6e6c {
+  font-size: 24rpx;
+  font-family: Source Han Sans CN;
+  font-weight: 400;
+  color: #c5c5c5;
+}
+.feedback .btn.data-v-665c6e6c {
+  margin-top: 240rpx;
+  width: 660rpx;
+  height: 84rpx;
+  line-height: 84rpx;
+  text-align: center;
+  background: #279524;
+  border-radius: 41rpx;
+  margin: 0 auto;
+}
+.feedback .btn button.data-v-665c6e6c {
+  width: 100%;
+  height: 100%;
+  background: #279524;
+  border-radius: 41rpx;
+  font-size: 36rpx;
+  font-family: Source Han Sans CN;
+  font-weight: 400;
+  color: #fffefe;
+}
+

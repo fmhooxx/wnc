@@ -1,0 +1,456 @@
+.order-header.data-v-3dadf6dc {
+  width: 750rpx;
+  height: 162rpx;
+  background: #279524;
+}
+.tips.data-v-3dadf6dc {
+  width: 36rpx;
+  height: 36rpx;
+  background: #279524;
+}
+.level-center image.data-v-3dadf6dc {
+  padding: 0 10rpx;
+}
+.level-center text.data-v-3dadf6dc {
+  padding: 0 10rpx;
+}
+.addr-info.data-v-3dadf6dc {
+  width: 710rpx;
+  height: 150rpx;
+  background: #ffffff;
+  border-radius: 8rpx;
+  padding: 30rpx 18rpx;
+  box-sizing: border-box;
+  position: absolute;
+  top: 80rpx;
+  left: 50%;
+  margin-left: -355rpx;
+}
+.addr-info view.data-v-3dadf6dc {
+  line-height: 48rpx;
+}
+/* 订单列表展示 */
+.order-list.data-v-3dadf6dc {
+  width: 710rpx;
+  background: #ffffff;
+  border-radius: 10rpx;
+  margin: 0 auto;
+  margin-top: 90rpx;
+}
+.list-right.data-v-3dadf6dc {
+  width: 580rpx;
+  padding: 0 20rpx;
+}
+.list-left image.data-v-3dadf6dc {
+  width: 96rpx;
+  height: 99rpx;
+  border: 1rpx solid #e5e5e5;
+}
+.order-list-info.data-v-3dadf6dc {
+  padding: 20rpx 36rpx;
+}
+/* 订单备注样式开始 */
+.bei-title.data-v-3dadf6dc {
+  width: 710rpx;
+  height: 88rpx;
+  background: #ffffff;
+  border-radius: 10rpx;
+  margin: 0 auto;
+  line-height: 88rpx;
+  margin-top: 20rpx;
+  padding-left: 30rpx;
+  box-sizing: border-box;
+}
+.con-info.data-v-3dadf6dc {
+  width: 710rpx;
+  background: #ffffff;
+  border-radius: 10rpx;
+  margin: 0 auto;
+}
+.con-info.data-v-3dadf6dc {
+  padding: 32rpx 30rpx;
+  box-sizing: border-box;
+  margin-top: 20rpx;
+}
+.price.data-v-3dadf6dc {
+  font-size: 32rpx;
+  font-family: Microsoft YaHei;
+  font-weight: bold;
+  color: #FF4543;
+}
+.info.data-v-3dadf6dc {
+  width: 710rpx;
+  height: 340rpx;
+  background: #ffffff;
+  border-radius: 10rpx;
+  margin: 0 auto;
+  margin-top: 20rpx;
+  padding: 34rpx 32rpx;
+  box-sizing: border-box;
+}
+.info view.data-v-3dadf6dc {
+  margin-bottom: 20rpx;
+  font-size: 26rpx;
+  font-family: Source Han Sans CN;
+  font-weight: 400;
+  color: #333333;
+}
+.footer.data-v-3dadf6dc {
+  width: 100%;
+  margin-top: 32rpx;
+  height: 98rpx;
+  text-align: right;
+  background: #ffffff;
+  float: right;
+  padding-left: 25rpx;
+  box-sizing: border-box;
+}
+.footer .footer-box.data-v-3dadf6dc {
+  margin-top: 24rpx;
+  float: right;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+}
+.footer .footer-box > view.data-v-3dadf6dc {
+  width: 140rpx;
+  height: 50rpx;
+  line-height: 50rpx;
+  text-align: center;
+  background: #ffffff;
+  border: 2rpx solid #e5e5e5;
+  border-radius: 25rpx;
+  font-size: 26rpx;
+  font-family: Source Han Sans CN;
+  font-weight: 400;
+  color: #666666;
+  margin: 0 25rpx;
+}
+.footer .confirm.data-v-3dadf6dc {
+  border: 2rpx solid #279524 !important;
+  color: #279524 !important;
+}
+.box.data-v-3dadf6dc {
+  width: 560rpx;
+  height: 240rpx;
+  box-sizing: border-box;
+  background: #ffffff;
+}
+.box .box-text.data-v-3dadf6dc {
+  font-size: 36rpx;
+  font-family: Source Han Sans CN;
+  font-weight: 400;
+  text-align: center;
+  margin: 50rpx 0 84rpx 0;
+  color: #666666;
+}
+.box .choice.data-v-3dadf6dc {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-justify-content: space-around;
+          justify-content: space-around;
+  font-size: 36rpx;
+  font-family: Source Han Sans CN;
+  font-weight: 400;
+  color: #333333;
+}
+.box .choice .active.data-v-3dadf6dc {
+  color: #279524 !important;
+}
+.box .box-content.data-v-3dadf6dc {
+  width: 497rpx;
+  height: 82rpx;
+  font-size: 35rpx;
+  font-family: Source Han Sans CN;
+  font-weight: 400;
+  color: #868686;
+  line-height: 48rpx;
+  margin: 54rpx auto;
+}
+.box .know.data-v-3dadf6dc {
+  width: 108rpx;
+  height: 34rpx;
+  margin: auto;
+  font-size: 36rpx;
+  font-family: Source Han Sans CN;
+  font-weight: 400;
+  color: #666666;
+  line-height: 36rpx;
+}
+.goods-list.data-v-3dadf6dc {
+  position: relative;
+  width: 710rpx;
+  background: #ffffff;
+  border-radius: 10rpx;
+  margin: 0 auto;
+  margin-top: 88rpx;
+}
+.list-right.data-v-3dadf6dc {
+  width: 580rpx;
+  padding: 0 20rpx;
+}
+.list-left image.data-v-3dadf6dc {
+  width: 96rpx;
+  height: 99rpx;
+  border: 1rpx solid #e5e5e5;
+}
+.order-list-info.data-v-3dadf6dc {
+  padding: 20rpx 36rpx;
+}
+.info-two-title.data-v-3dadf6dc {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+}
+.info-two-title .discount.data-v-3dadf6dc {
+  width: 24rpx;
+  height: 24rpx;
+  line-height: 24rpx;
+  text-align: center;
+  background: #fc4f4b;
+  border-radius: 2rpx;
+  font-size: 20rpx;
+  font-family: Microsoft YaHei;
+  font-weight: 400;
+  color: #ffffff;
+  margin-right: 14rpx;
+}
+.green-healthy.data-v-3dadf6dc {
+  position: absolute;
+  top: -22rpx;
+  left: -1rpx;
+  width: 150rpx;
+  height: 34rpx;
+}
+.green-healthy > image.data-v-3dadf6dc {
+  width: 100%;
+  height: 100%;
+  vertical-align: middle;
+}
+.green-healthy > view.data-v-3dadf6dc {
+  position: absolute;
+  top: 10rpx;
+  left: 18rpx;
+  font-size: 24rpx;
+  font-family: Source Han Sans CN;
+  font-weight: 400;
+  color: #f7f7f7;
+}
+/* 列表备注开始 */
+.bei-title.data-v-3dadf6dc {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  width: 710rpx;
+  height: 88rpx;
+  background: #ffffff;
+  border-radius: 10rpx;
+  margin: 0 auto;
+  line-height: 88rpx;
+  margin-top: 20rpx;
+  padding: 0 30rpx;
+  box-sizing: border-box;
+}
+.bei-title > image.data-v-3dadf6dc {
+  width: 13rpx;
+  height: 23rpx;
+  vertical-align: middle;
+}
+.con-info.data-v-3dadf6dc {
+  width: 710rpx;
+  background: #ffffff;
+  border-radius: 10rpx;
+  margin: 0 auto;
+}
+.con-info.data-v-3dadf6dc {
+  padding: 0 30rpx;
+  box-sizing: border-box;
+  margin-top: 20rpx;
+}
+.con-list.data-v-3dadf6dc {
+  height: 88rpx;
+  line-height: 88rpx;
+  border-bottom: 1rpx solid #F3F3F3;
+}
+.total.data-v-3dadf6dc {
+  height: 88rpx;
+  line-height: 88rpx;
+  text-align: right;
+  font-family: Microsoft YaHei;
+  font-weight: bold;
+}
+.total > view.data-v-3dadf6dc {
+  display: inline-block;
+  font-size: 26rpx;
+  color: #333;
+}
+.total .price.data-v-3dadf6dc {
+  font-size: 36rpx;
+  color: #FF4543;
+}
+.total .price > text.data-v-3dadf6dc {
+  font-size: 26rpx;
+}
+.order-details.data-v-3dadf6dc {
+  width: 710rpx;
+  margin: 20rpx auto;
+  background-color: #fff;
+  border-radius: 10rpx;
+  padding: 10rpx 32rpx 24rpx 33rpx;
+  box-sizing: border-box;
+  font-size: 26rpx;
+  font-family: Source Han Sans CN;
+  font-weight: 400;
+  color: #333;
+}
+.order-details > view.data-v-3dadf6dc {
+  margin: 10rpx 0;
+}
+.order-details .order-details-box.data-v-3dadf6dc {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+}
+.order-details .order-details-box .order-details-one.data-v-3dadf6dc {
+  font-size: 26rpx;
+  font-family: Source Han Sans CN;
+  font-weight: 400;
+  color: #279524;
+}
+
+@charset "UTF-8";
+/**
+ * 这里是uni-app内置的常用样式变量
+ *
+ * uni-app 官方扩展插件及插件市场（https://ext.dcloud.net.cn）上很多三方插件均使用了这些样式变量
+ * 如果你是插件开发者，建议你使用scss预处理，并在插件代码中直接使用这些变量（无需 import 这个文件），方便用户通过搭积木的方式开发整体风格一致的App
+ *
+ */
+/**
+ * 如果你是App开发者（插件使用者），你可以通过修改这些变量来定制自己的插件主题，实现自定义主题功能
+ *
+ * 如果你的项目同样使用了scss预处理，你也可以直接在你的 scss 代码中使用如下变量，同时无需 import 这个文件
+ */
+/* 颜色变量 */
+/* 行为相关颜色 */
+/* 文字基本颜色 */
+/* 背景颜色 */
+/* 边框颜色 */
+/* 尺寸变量 */
+/* 文字尺寸 */
+/* 图片尺寸 */
+/* Border Radius */
+/* 水平间距 */
+/* 垂直间距 */
+/* 透明度 */
+/* 文章场景相关 */
+.uni-popup {
+  position: fixed;
+  top: 0px;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  z-index: 8;
+  overflow: hidden;
+}
+.uni-popup__mask {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    z-index: 8;
+    background: rgba(0, 0, 0, 0.4);
+    opacity: 0;
+}
+.uni-popup__mask.ani {
+      -webkit-transition: all 0.3s;
+      transition: all 0.3s;
+}
+.uni-popup__mask.uni-top, .uni-popup__mask.uni-bottom, .uni-popup__mask.uni-center {
+      opacity: 1;
+}
+.uni-popup__wrapper {
+    position: absolute;
+    z-index: 9;
+    box-sizing: border-box;
+}
+.uni-popup__wrapper.ani {
+      -webkit-transition: all 0.3s;
+      transition: all 0.3s;
+}
+.uni-popup__wrapper.top {
+      top: 0;
+      left: 0;
+      width: 100%;
+      -webkit-transform: translateY(-100%);
+              transform: translateY(-100%);
+}
+.uni-popup__wrapper.bottom {
+      bottom: 0;
+      left: 0;
+      width: 100%;
+      -webkit-transform: translateY(100%);
+              transform: translateY(100%);
+}
+.uni-popup__wrapper.center {
+      width: 100%;
+      height: 100%;
+      display: -webkit-box;
+      display: -webkit-flex;
+      display: flex;
+      -webkit-box-pack: center;
+      -webkit-justify-content: center;
+              justify-content: center;
+      -webkit-box-align: center;
+      -webkit-align-items: center;
+              align-items: center;
+      -webkit-transform: scale(1.2);
+              transform: scale(1.2);
+      opacity: 0;
+}
+.uni-popup__wrapper-box {
+      position: relative;
+      box-sizing: border-box;
+}
+.uni-popup__wrapper.uni-custom .uni-popup__wrapper-box {
+      border-radius: 20px;
+      background: #fff;
+}
+.uni-popup__wrapper.uni-custom.center .uni-popup__wrapper-box {
+      position: relative;
+      max-width: 80%;
+      max-height: 80%;
+      overflow-y: scroll;
+}
+.uni-popup__wrapper.uni-custom.top .uni-popup__wrapper-box, .uni-popup__wrapper.uni-custom.bottom .uni-popup__wrapper-box {
+      width: 100%;
+      max-height: 500px;
+      overflow-y: scroll;
+}
+.uni-popup__wrapper.uni-top, .uni-popup__wrapper.uni-bottom {
+      -webkit-transform: translateY(0);
+              transform: translateY(0);
+}
+.uni-popup__wrapper.uni-center {
+      -webkit-transform: scale(1);
+              transform: scale(1);
+      opacity: 1;
+}
+

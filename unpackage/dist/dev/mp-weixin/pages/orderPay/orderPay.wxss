@@ -1,0 +1,61 @@
+.price.data-v-1002892c {
+  width: 750rpx;
+  height: 240rpx;
+  background: #ffffff;
+  margin: 20rpx 0;
+  position: relative;
+}
+.con.data-v-1002892c {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  margin-left: -85rpx;
+  margin-top: -60rpx;
+}
+.top.data-v-1002892c {
+  font-size: 36rpx;
+  font-family: Source Han Sans CN;
+  font-weight: 400;
+  color: #020202;
+}
+.bottom.data-v-1002892c {
+  font-size: 44rpx;
+  font-family: Source Han Sans CN;
+  font-weight: 500;
+  color: #020202;
+}
+/* 支付方式样式开始 */
+.payWay.data-v-1002892c {
+  height: 176rpx;
+  background: #ffffff;
+  padding-right: 20rpx;
+  box-sizing: border-box;
+  -webkit-align-self: center;
+          align-self: center;
+}
+.title.data-v-1002892c {
+  padding: 24rpx 34rpx;
+  box-sizing: border-box;
+}
+.payWay image.data-v-1002892c {
+  width: 48rpx;
+  height: 42rpx;
+}
+.pay-way.data-v-1002892c {
+  width: 280rpx;
+  padding: 0 34rpx;
+  box-sizing: border-box;
+  margin-top: 20rpx;
+}
+.check.data-v-1002892c {
+  -webkit-align-self: center;
+          align-self: center;
+}
+.btn.data-v-1002892c {
+  color: white;
+  font-size: 30rpx;
+  font-family: Source Han Sans CN;
+  font-weight: 400;
+  margin-top: 60rpx;
+}
+

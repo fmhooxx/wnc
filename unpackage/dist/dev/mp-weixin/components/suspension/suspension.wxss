@@ -1,0 +1,33 @@
+.suspension.data-v-ec3c1e04 {
+  position: fixed;
+  bottom: 144rpx;
+  left: 30rpx;
+  z-index: 9;
+}
+.suspension image.data-v-ec3c1e04 {
+  width: 100%;
+  height: 100%;
+}
+.suspension .share.data-v-ec3c1e04 {
+  margin-bottom: 30rpx;
+}
+.suspension .cart.data-v-ec3c1e04 {
+  position: relative;
+}
+.suspension .cart .tag.data-v-ec3c1e04 {
+  width: 34rpx;
+  height: 34rpx;
+  line-height: 34rpx;
+  text-align: center;
+  color: #fff;
+  border-radius: 50%;
+  background-color: #FC5854;
+  position: absolute;
+  right: 0;
+  top: 0;
+}
+.suspension .w.data-v-ec3c1e04 {
+  width: 90rpx;
+  height: 90rpx;
+}
+

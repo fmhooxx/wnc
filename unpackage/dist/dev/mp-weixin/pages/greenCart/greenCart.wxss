@@ -1,0 +1,309 @@
+
+page {
+	background-color: #fff;
+}
+
+.container.data-v-a3304818 {
+  position: relative;
+}
+.container .no-index-news.data-v-a3304818 {
+  width: 335rpx;
+  height: 412rpx;
+  position: absolute;
+  top: 264rpx;
+  left: 208rpx;
+  text-align: center;
+}
+.container .no-index-news > image.data-v-a3304818 {
+  width: 312rpx;
+  height: 312rpx;
+}
+.container .no-index-news > view.data-v-a3304818 {
+  font-family: Source Han Sans CN;
+  font-weight: 400;
+  color: #279524;
+  font-size: 28rpx;
+}
+.container .no-index-news .info.data-v-a3304818 {
+  margin: 44rpx 0 28rpx 0;
+  font-size: 30rpx;
+  color: #666;
+}
+.container .no-index-news .stroll-around.data-v-a3304818 {
+  margin: auto;
+  width: 200rpx;
+  height: 50rpx;
+  line-height: 50rpx;
+  text-align: center;
+  border: 2rpx solid #279524;
+  border-radius: 25rpx;
+  font-size: 28rpx;
+  font-family: Source Han Sans CN;
+  font-weight: 400;
+  color: #279524;
+}
+.head-box.data-v-a3304818 {
+  margin-top: 1rpx;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: space-evenly;
+  -webkit-justify-content: space-evenly;
+          justify-content: space-evenly;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  height: 90rpx;
+  line-height: 90rpx;
+  font-size: 30rpx;
+  font-family: Microsoft YaHei;
+  font-weight: 400;
+  color: #333;
+  background-color: #fff;
+}
+.head-box > view.data-v-a3304818 {
+  border-bottom: 4rpx solid transparent;
+}
+.head-box .activeborder.data-v-a3304818 {
+  border-bottom: 4rpx solid #333;
+}
+.bottom.data-v-a3304818 {
+  position: relative;
+}
+.box.data-v-a3304818 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  height: 100%;
+  border-bottom: 1rpx solid #f1f1f1;
+}
+.one.data-v-a3304818 {
+  margin-top: 24rpx;
+}
+.info-right.data-v-a3304818 {
+  position: absolute;
+  right: 0;
+  bottom: 0rpx;
+  width: 130rpx;
+  height: 40rpx;
+  line-height: 40rpx;
+  background: #ffffff;
+  border: 1rpx solid #999999;
+  border-radius: 18rpx;
+  padding: 0 10rpx;
+  box-sizing: border-box;
+  text-align: center;
+  color: #666666;
+}
+.info-right .num-red.data-v-a3304818 {
+  color: #999999;
+}
+.info-right input.data-v-a3304818 {
+  width: 50rpx;
+  height: 100%;
+  line-height: 32rpx;
+  font-size: 24rpx;
+  font-weight: 400;
+  color: #000000;
+  background: #cccccc;
+}
+.base-count.data-v-a3304818 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  width: 170rpx;
+  height: 50rpx;
+  border-radius: 30rpx;
+}
+.base-count view.data-v-a3304818 {
+  width: 50rpx;
+  height: 100%;
+  line-height: 50rpx;
+  background-color: #f8f8f8;
+  text-align: center;
+  border: 2rpx solid #eee;
+}
+.base-count .count-sub.data-v-a3304818 {
+  line-height: 48rpx;
+  border-radius: 30rpx 0 0 30rpx;
+}
+.base-count .count-add.data-v-a3304818 {
+  border-radius: 0 30rpx 30rpx 0;
+}
+.base-count input.data-v-a3304818 {
+  width: 70rpx;
+  height: 100%;
+  background: none;
+  outline: none;
+  border: none;
+  text-align: center;
+  border-top: 2rpx solid #eee;
+  border-bottom: 2rpx solid #eee;
+}
+.base-count .fontColor.data-v-a3304818 {
+  color: #ccc;
+}
+.cart-box.data-v-a3304818 {
+  width: 690rpx;
+  background: white;
+  border-radius: 20rpx 20rpx 0px 0px;
+  margin: 0 auto;
+  margin-top: 30rpx;
+}
+.cart-list-box.data-v-a3304818 {
+  padding-right: 20rpx;
+  box-sizing: border-box;
+  height: 176rpx;
+}
+.list.data-v-a3304818 {
+  height: 74%;
+  width: 690rpx;
+  padding: 0rpx 20rpx;
+  box-sizing: border-box;
+}
+.del.data-v-a3304818 {
+  float: right;
+}
+.del image.data-v-a3304818 {
+  width: 26rpx;
+  height: 24rpx;
+}
+.list-left image.data-v-a3304818 {
+  width: 108rpx;
+  height: 108rpx;
+  margin-right: 18rpx;
+}
+.list-right.data-v-a3304818 {
+  width: 446rpx;
+  height: 108rpx;
+}
+.top.data-v-a3304818 {
+  font-size: 28rpx;
+  font-family: Source Han Sans CN;
+  font-weight: 400;
+  color: #333333;
+  line-height: 24rpx;
+}
+.bottom.data-v-a3304818 {
+  padding-right: 20rpx;
+  box-sizing: border-box;
+}
+.price.data-v-a3304818 {
+  font-size: 28rpx;
+  font-family: Source Han Sans CN;
+  font-weight: 500;
+  color: #fd484d;
+}
+.fen.data-v-a3304818 {
+  font-size: 22rpx;
+  font-family: Source Han Sans CN;
+  font-weight: 400;
+  color: #999999;
+  line-height: 24rpx;
+}
+.original.data-v-a3304818 {
+  font-size: 22rpx;
+  font-family: Source Han Sans CN;
+  font-weight: 400;
+  text-decoration: line-through;
+  color: #999999;
+  padding: 0 18rpx;
+  box-sizing: border-box;
+}
+/* 底部数量开始 */
+.num.data-v-a3304818 {
+  width: 103rpx;
+  height: 36rpx;
+  background: #ffffff;
+  border: 1rpx solid #999999;
+  border-radius: 18rpx;
+  padding: 0 10rpx;
+  box-sizing: border-box;
+  line-height: 26rpx;
+}
+input.data-v-a3304818 {
+  width: 34rpx;
+  height: 32rpx;
+  background: #cccccc;
+  min-height: 0;
+}
+/* 
+	底部操作栏样式开始 */
+.user-defined.data-v-a3304818 {
+  width: 750rpx;
+  height: 98rpx;
+  padding-left: 24rpx;
+  box-sizing: border-box;
+  background: #ffffff;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+}
+.cart.data-v-a3304818 {
+  width: 94rpx;
+  height: 94rpx;
+}
+.toClear.data-v-a3304818 {
+  width: 220rpx;
+  height: 98rpx;
+  background: #fd484d;
+  text-align: center;
+  line-height: 98rpx;
+  font-size: 32rpx;
+  font-family: Source Han Sans CN;
+  font-weight: 500;
+  color: #ffffff;
+}
+radio.data-v-a3304818 {
+  -webkit-align-self: center;
+          align-self: center;
+  -webkit-transform: scale(0.8);
+          transform: scale(0.8);
+}
+.jiage.data-v-a3304818 {
+  font-size: 24rpx;
+  font-family: Source Han Sans CN;
+  font-weight: 400;
+  color: #ef3a37;
+}
+.add.data-v-a3304818 {
+  margin-left: 200rpx;
+}
+.flex-row.data-v-a3304818 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: row;
+          flex-direction: row;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+}
+.flex-column.data-v-a3304818 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+}
+.expect-bgi.data-v-a3304818 {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+          transform: translate(-50%, -50%);
+  width: 400rpx;
+  height: 344rpx;
+}
+.expect-bgi > image.data-v-a3304818 {
+  width: 100%;
+  height: 100%;
+}
+

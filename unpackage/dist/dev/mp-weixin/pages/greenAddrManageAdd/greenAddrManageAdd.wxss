@@ -1,0 +1,108 @@
+.address-add.data-v-a9a9f0a8 {
+  margin-top: 20rpx;
+}
+.address-add > view.data-v-a9a9f0a8 {
+  background-color: #fff;
+}
+.address-add .list.data-v-a9a9f0a8 {
+  height: 110rpx;
+  padding: 0 30rpx;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  border-bottom: 1rpx solid #f1f1f1;
+}
+.address-add .list .region-left.data-v-a9a9f0a8 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  font-size: 28rpx;
+  color: #333;
+  font-family: Source Han Sans CN;
+  font-weight: 400;
+}
+.address-add .list .region-left > view.data-v-a9a9f0a8 {
+  width: 160rpx;
+}
+.address-add .list .region-left .address-placeholder.data-v-a9a9f0a8 {
+  color: #999;
+  font-size: 28rpx;
+  font-family: Source Han Sans CN;
+  font-weight: 400;
+}
+.address-add .list .region-left > input.data-v-a9a9f0a8 {
+  width: 79%;
+  margin-top: 4rpx;
+}
+.address-add .list .region-right.data-v-a9a9f0a8 {
+  width: 100%;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+}
+.address-add .list .region-right .choice.data-v-a9a9f0a8 {
+  width: 500rpx;
+  height: 100rpx;
+  line-height: 100rpx;
+  font-size: 28rpx;
+  font-family: Source Han Sans CN;
+  font-weight: 400;
+  color: #999;
+  margin-left: -18rpx;
+}
+.address-add .list .region-right .choice view.data-v-a9a9f0a8 {
+  display: inline-block;
+}
+.address-add .list .region-right > image.data-v-a9a9f0a8 {
+  width: 13rpx;
+  height: 23rpx;
+  vertical-align: middle;
+}
+.address-add .list .choice-box.data-v-a9a9f0a8 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  font-size: 28rpx;
+  font-family: Source Han Sans CN;
+  font-weight: 400;
+  color: #999;
+  margin-left: 92rpx;
+}
+.address-add .list .choice-box .box-item.data-v-a9a9f0a8 {
+  margin: 0 45rpx;
+}
+.address-add .list .choice-box .box-item > text.data-v-a9a9f0a8 {
+  margin-left: 8rpx;
+}
+.address-add .list .active.data-v-a9a9f0a8 {
+  color: #333 !important;
+}
+.address-add .btn.data-v-a9a9f0a8 {
+  margin: 90rpx auto;
+  width: 690rpx;
+  height: 80rpx;
+  background: #279524;
+  border-radius: 40rpx;
+}
+.address-add .btn > button.data-v-a9a9f0a8 {
+  width: 100%;
+  background-color: #279524;
+  border-radius: 40rpx;
+  font-size: 32rpx;
+  font-family: Source Han Sans CN;
+  font-weight: 400;
+  color: #fff;
+}
+

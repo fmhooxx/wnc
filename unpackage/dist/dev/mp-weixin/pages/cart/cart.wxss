@@ -1,0 +1,149 @@
+image.data-v-4bb1cf28 {
+  width: 100%;
+  height: 100%;
+}
+.cart .cart-tab.data-v-4bb1cf28 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-justify-content: space-around;
+          justify-content: space-around;
+  height: 90rpx;
+  line-height: 90rpx;
+  width: 100%;
+  background: #ffffff;
+  font-size: 30rpx;
+  font-family: Microsoft YaHei;
+  font-weight: 400;
+  color: #666666;
+  margin-bottom: 30rpx;
+}
+.cart .cart-tab > view.data-v-4bb1cf28 {
+  width: 120rpx;
+  height: 30rpx;
+}
+.cart .cart-tab .healthy.data-v-4bb1cf28 {
+  color: #333333;
+}
+.cart .cart-tab .line.data-v-4bb1cf28 {
+  width: 100rpx;
+  height: 4rpx;
+  background: #333333;
+  border-radius: 2rpx;
+  margin: 0 auto;
+}
+.cart .goods .goods-box.data-v-4bb1cf28 {
+  box-sizing: border-box;
+  width: 690rpx;
+  height: 176rpx;
+  margin: auto;
+  padding: 0 30rpx;
+  background: #ffffff;
+  border-radius: 20rpx 20rpx 0rpx 0rpx;
+}
+.cart .goods .goods-box .del.data-v-4bb1cf28 {
+  width: 26rpx;
+  height: 24rpx;
+  float: right;
+}
+.cart .goods .goods-box .goods-info.data-v-4bb1cf28 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  line-height: 176rpx;
+  position: relative;
+}
+.cart .goods .goods-box .goods-info .info-left.data-v-4bb1cf28 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+}
+.cart .goods .goods-box .goods-info .info-left .choice.data-v-4bb1cf28 {
+  width: 28rpx;
+  height: 28rpx;
+}
+.cart .goods .goods-box .goods-info .info-left .info-center.data-v-4bb1cf28 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  height: 110rpx;
+  line-height: 0rpx;
+  margin: 34rpx 0 34rpx 40rpx;
+}
+.cart .goods .goods-box .goods-info .info-left .info-center .center-img.data-v-4bb1cf28 {
+  width: 110rpx;
+  height: 110rpx;
+  margin-right: 20rpx;
+}
+.cart .goods .goods-box .goods-info .info-left .info-center .center-img image.data-v-4bb1cf28 {
+  vertical-align: middle;
+}
+.cart .goods .goods-box .goods-info .info-left .info-center .info-content.data-v-4bb1cf28 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+  font-size: 28rpx;
+  padding: 10rpx 0;
+}
+.cart .goods .goods-box .goods-info .info-left .info-center .info-content .titile.data-v-4bb1cf28 {
+  font-family: Source Han Sans CN;
+  font-weight: 400;
+  color: #333333;
+}
+.cart .goods .goods-box .goods-info .info-left .info-center .info-content .text.data-v-4bb1cf28 {
+  font-family: Source Han Sans CN;
+  color: #FD484D;
+}
+.cart .goods .goods-box .goods-info .info-left .info-center .info-content .text .one.data-v-4bb1cf28 {
+  font-size: 20rpx;
+}
+.cart .goods .goods-box .goods-info .info-left .info-center .info-content .text .two.data-v-4bb1cf28 {
+  font-size: 28rpx;
+  font-weight: 500;
+}
+.cart .goods .goods-box .goods-info .info-left .info-center .info-content .text .three.data-v-4bb1cf28 {
+  font-size: 18rpx;
+  color: #666;
+}
+.cart .goods .goods-box .goods-info .info-left .info-center .info-content .text .four.data-v-4bb1cf28 {
+  margin-left: 18rpx;
+  font-size: 22rpx;
+  text-decoration: line-through;
+  color: #999999;
+}
+.cart .goods .goods-box .goods-info .info-right.data-v-4bb1cf28 {
+  position: absolute;
+  right: 0;
+  bottom: 30rpx;
+  width: 103rpx;
+  height: 36rpx;
+  background: #ffffff;
+  border: 1rpx solid #999999;
+  border-radius: 18rpx;
+  padding: 0 10rpx;
+  box-sizing: border-box;
+  line-height: 36rpx;
+  text-align: center;
+  color: #666666;
+}
+.cart .goods .goods-box .goods-info .info-right .num-red.data-v-4bb1cf28 {
+  color: #999999;
+}
+.cart .goods .goods-box .goods-info .info-right input.data-v-4bb1cf28 {
+  width: 34rpx;
+  height: 32rpx;
+  line-height: 32rpx;
+  font-size: 24rpx;
+  font-weight: 400;
+  color: #000000;
+  background: #cccccc;
+  min-height: 0;
+}
+

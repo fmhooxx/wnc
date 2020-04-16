@@ -1,0 +1,485 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+checkbox .wx-checkbox-input {
+  border-radius: 50% !important;
+  color: #48bc5b !important;
+  width: 35rpx;
+  /* 背景的宽 */
+  height: 35rpx;
+}
+
+/*每个页面公共css */
+page {
+  /* background-color: #000; */
+  background-color: #f1f1f1;
+}
+.container {
+  font-family: PingFang SC;
+}
+.big-title {
+  font-size: 36rpx;
+  font-family: Microsoft YaHei;
+  font-weight: 400;
+  color: rgba(51, 51, 51, 1);
+  line-height: 42rpx;
+}
+.middle-title {
+  font-size: 32rpx;
+  font-family: Source Han Sans CN;
+  font-weight: 400;
+  color: rgba(0, 0, 0, 1);
+}
+.middle-title-light {
+  font-size: 32rpx;
+  font-family: Source Han Sans CN;
+  font-weight: 400;
+  color: rgba(90, 90, 90, 1);
+}
+.info-title {
+  /* 信息标题 */
+  font-size: 30rpx;
+  font-family: Source Han Sans CN;
+  font-weight: 500;
+  color: rgba(51, 51, 51, 1);
+}
+.info-subtitle {
+  font-size: 26rpx;
+  font-family: Source Han Sans CN;
+  font-weight: 400;
+  color: rgba(51, 51, 51, 1);
+}
+/* 小标题 */
+.info-small-title {
+  font-size: 30rpx;
+  font-family: Microsoft YaHei;
+  font-weight: 400;
+  color: rgba(51, 51, 51, 1);
+}
+.info-small-titlebol {
+  font-size: 30rpx;
+  font-family: Microsoft YaHei;
+  font-weight: bold;
+  color: rgba(51, 51, 51, 1);
+}
+.info-small-title-light {
+  font-size: 30rpx;
+  font-family: Microsoft YaHei;
+  font-weight: 400;
+  color: rgba(153, 153, 153, 1);
+}
+/* 小标题副标题 */
+.info-small-title-sub {
+  font-size: 26rpx;
+  font-family: Source Han Sans CN;
+  font-weight: 400;
+  color: rgba(51, 51, 51, 1);
+}
+/* 二级标题 */
+.info-two-title {
+  font-size: 28rpx;
+  font-family: Microsoft YaHei;
+  font-weight: bold;
+  color: rgba(51, 51, 51, 1);
+}
+/* 三级标题 */
+.info-three-titledel {
+  font-size: 24rpx;
+  font-family: Microsoft YaHei;
+  font-weight: 400;
+  text-decoration: line-through;
+  color: rgba(102, 102, 102, 1);
+}
+.info-three-title {
+  font-size: 24rpx;
+  font-family: Microsoft YaHei;
+  font-weight: 400;
+  color: rgba(102, 102, 102, 1);
+}
+.info-three-titlestro {
+  font-size: 24rpx;
+  font-family: Microsoft YaHei;
+  font-weight: bold;
+  color: rgba(51, 51, 51, 1);
+}
+/* 小内容 */
+.little-text {
+  font-size: 22rpx;
+  font-family: Microsoft YaHei;
+  font-weight: 400;
+  color: rgba(51, 51, 51, 1);
+  line-height: 23rpx;
+}
+/* 白色标题 */
+.order-title {
+  font-size: 40rpx;
+  font-family: Source Han Sans CN;
+  font-weight: 500;
+  color: rgba(247, 247, 247, 1);
+}
+/* 按钮文字 */
+.btn-text {
+  font-size: 36rpx;
+  font-family: Source Han Sans CN;
+  font-weight: 400;
+  color: rgba(255, 254, 254, 1);
+}
+/* 布局 */
+/* 浮动布局 */
+.flex-row {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: row;
+          flex-direction: row;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+}
+.flex-column {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+}
+.list-box {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: row;
+          flex-direction: row;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+  -webkit-flex-wrap: wrap;
+          flex-wrap: wrap;
+}
+/* 居中 */
+.vertical-center {
+  -webkit-align-self: center;
+          align-self: center;
+}
+.level-center {
+  margin: 0 auto;
+  text-align: center;
+}
+.position-center {
+  width: 600px;
+  height: 400px;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  margin-top: -200px; /* 高度的一半 */
+  margin-left: -300px;
+}
+.position-vercenter {
+  width: 750rpx;
+  height: 50rpx;
+  position: relative;
+  top: 50%;
+  margin-top: -25rpx;
+}
+.fixed-bottom {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+}
+/* 盒子 */
+/* 按钮样式 */
+.btn-default {
+  width: 150rpx;
+  height: 56rpx;
+  font-size: 26rpx;
+  font-family: Source Han Sans CN;
+  font-weight: 400;
+  color: rgba(102, 102, 102, 1);
+  background: rgba(255, 255, 255, 1);
+  border: 2rpx solid rgba(229, 229, 229, 1);
+  border-radius: 28rpx;
+  text-align: center;
+  line-height: 56rpx;
+}
+.btn-confirm {
+  font-size: 26rpx;
+  font-family: Source Han Sans CN;
+  font-weight: 400;
+  width: 150rpx;
+  height: 56rpx;
+  background: rgba(255, 255, 255, 1);
+  border: 2rpx solid rgba(90, 195, 107, 1);
+  border-radius: 28rpx;
+  text-align: center;
+  line-height: 56rpx;
+  color: #5ac36b;
+}
+.btn-important {
+  width: 150rpx;
+  height: 56rpx;
+  font-size: 26rpx;
+  font-family: Source Han Sans CN;
+  font-weight: 400;
+  border-radius: 28rpx;
+  text-align: center;
+  line-height: 56rpx;
+  background: rgba(253, 72, 77, 1);
+  color: white;
+}
+.btn-default-long {
+  width: 690rpx;
+  height: 84rpx;
+  background: rgba(39, 149, 36, 1);
+  margin: 0 auto;
+  text-align: center;
+  line-height: 84rpx;
+  color: white;
+}
+.btn-default-longrad {
+  width: 660rpx;
+  height: 84rpx;
+  background: rgba(39, 149, 36, 1);
+  border-radius: 40rpx;
+  margin: 0 auto;
+  text-align: center;
+  line-height: 84rpx;
+}
+
+
+view.data-v-b6f08ce0,
+scroll-view.data-v-b6f08ce0 {
+  box-sizing: border-box;
+}
+.QS-tabs.data-v-b6f08ce0 {
+  width: 100%;
+  -webkit-transition-property: background-color, color;
+  transition-property: background-color, color;
+}
+.QS-tabs.data-v-b6f08ce0::-webkit-scrollbar {
+  display: none;
+  width: 0 !important;
+  height: 0 !important;
+  -webkit-appearance: none;
+  background: transparent;
+}
+.QS-tabs-scroll.data-v-b6f08ce0 {
+  width: 100%;
+  white-space: nowrap;
+  position: relative;
+}
+.QS-tabs-scroll-box.data-v-b6f08ce0 {
+  position: relative;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  white-space: nowrap !important;
+  display: block !important;
+}
+.QS-tabs-scroll-item.data-v-b6f08ce0 {
+  position: relative;
+  display: inline-block;
+  text-align: center;
+  -webkit-transition-property: background-color, color, font-weight;
+  transition-property: background-color, color, font-weight;
+  margin-bottom: 24rpx;
+  padding: 0 20rpx !important;
+}
+.content.data-v-b6f08ce0 {
+  /* overflow: hidden; */
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}
+.boxStyle.data-v-b6f08ce0 {
+  pointer-events: none;
+  position: absolute;
+  -webkit-transition-property: all;
+  transition-property: all;
+}
+.boxStyle2.data-v-b6f08ce0 {
+  pointer-events: none;
+  position: absolute;
+  bottom: 0;
+  -webkit-transition-property: all;
+  transition-property: all;
+  -webkit-transform: translateY(-100%);
+          transform: translateY(-100%);
+}
+.itemBackgroundBox.data-v-b6f08ce0 {
+  pointer-events: none;
+  position: absolute;
+  top: 0;
+  -webkit-transition-property: left, background-color;
+  transition-property: left, background-color;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: row;
+          flex-direction: row;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+          justify-content: center;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+}
+.itemBackground.data-v-b6f08ce0 {
+  height: 100%;
+  width: 100%;
+  -webkit-transition-property: all;
+  transition-property: all;
+}
+
+.suspension.data-v-ec3c1e04 {
+  position: fixed;
+  bottom: 144rpx;
+  left: 30rpx;
+  z-index: 9;
+}
+.suspension image.data-v-ec3c1e04 {
+  width: 100%;
+  height: 100%;
+}
+.suspension .share.data-v-ec3c1e04 {
+  margin-bottom: 30rpx;
+}
+.suspension .cart.data-v-ec3c1e04 {
+  position: relative;
+}
+.suspension .cart .tag.data-v-ec3c1e04 {
+  width: 34rpx;
+  height: 34rpx;
+  line-height: 34rpx;
+  text-align: center;
+  color: #fff;
+  border-radius: 50%;
+  background-color: #FC5854;
+  position: absolute;
+  right: 0;
+  top: 0;
+}
+.suspension .w.data-v-ec3c1e04 {
+  width: 90rpx;
+  height: 90rpx;
+}
+

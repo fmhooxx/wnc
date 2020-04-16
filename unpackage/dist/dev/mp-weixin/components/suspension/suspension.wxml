@@ -1,0 +1,1 @@
+<view class="suspension data-v-ec3c1e04"><view data-event-opts="{{[['tap',[['goGreenCart',['$event']]]]]}}" class="cart w data-v-ec3c1e04" bindtap="__e"><image src="/static/images/green-index-cart.png" class="data-v-ec3c1e04"></image><text class="tag data-v-ec3c1e04">1</text></view></view>

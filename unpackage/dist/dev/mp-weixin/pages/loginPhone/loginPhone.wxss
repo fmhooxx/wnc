@@ -1,0 +1,99 @@
+
+page {
+  background-color: #fff;
+}
+
+.login-time.data-v-5a8adee8 {
+  color: #279524 !important;
+}
+image.data-v-5a8adee8 {
+  width: 100%;
+  height: 100%;
+}
+.active.data-v-5a8adee8 {
+  background-color: #279524 !important;
+  opacity: 1 !important;
+}
+.login.data-v-5a8adee8 {
+  padding: 0 56rpx;
+}
+.login .login-title.data-v-5a8adee8 {
+  font-size: 48rpx;
+  font-family: Source Han Sans CN;
+  font-weight: 400;
+  color: #262626;
+  margin-bottom: 24rpx;
+}
+.login .login-register.data-v-5a8adee8 {
+  font-size: 30rpx;
+  font-family: Source Han Sans CN;
+  font-weight: 400;
+  color: #979797;
+}
+.login .login-content > view.data-v-5a8adee8 {
+  height: 80rpx;
+  border-bottom: 1rpx solid #ececec;
+}
+.login .login-content .login-tel.data-v-5a8adee8 {
+  margin-top: 123rpx;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+}
+.login .login-content .login-tel > input.data-v-5a8adee8 {
+  width: 69%;
+}
+.login .login-content .login-tel > view.data-v-5a8adee8 {
+  color: #c9c8cf;
+}
+.login .login-content .login-tel > view text.data-v-5a8adee8 {
+  display: inline-block;
+  width: 160rpx;
+  height: 50rpx;
+  line-height: 50rpx;
+  text-align: center;
+  background: #ffffff;
+  border: 1rpx solid #c9c8cf;
+  border-radius: 25rpx;
+  font-size: 26rpx;
+  font-family: Source Han Sans CN;
+  font-weight: 400;
+  color: #a8a8a8;
+  margin-left: 20rpx;
+}
+.login .login-content .login-password.data-v-5a8adee8 {
+  margin: 94rpx 0;
+}
+.login .login-content .tel-password-class.data-v-5a8adee8 {
+  font-size: 30rpx !important;
+  font-family: Source Han Sans CN;
+  font-weight: 400;
+  color: #c9c8cf;
+}
+.login .login-btn.data-v-5a8adee8 {
+  width: 630rpx;
+  height: 90rpx;
+  margin-bottom: 33rpx;
+  border-radius: 42rpx;
+}
+.login .login-btn .btn.data-v-5a8adee8 {
+  width: 100%;
+  background: #279524;
+  opacity: 0.5;
+  border-radius: 42rpx;
+  font-size: 36rpx;
+  font-family: Source Han Sans CN;
+  font-weight: 400;
+  color: #ffffff;
+}
+.login .login-text.data-v-5a8adee8 {
+  float: right;
+  font-size: 24rpx;
+  font-family: Source Han Sans CN;
+  font-weight: 400;
+  color: #a5a5a5;
+}
+

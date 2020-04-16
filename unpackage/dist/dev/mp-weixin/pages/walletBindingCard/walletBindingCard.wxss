@@ -1,0 +1,50 @@
+.binding-card .active.data-v-435a7226 {
+  background: #48bc5b !important;
+}
+.binding-card input.data-v-435a7226 {
+  width: 74%;
+}
+.binding-card .binding.data-v-435a7226 {
+  margin-top: 20rpx;
+}
+.binding-card .binding > view.data-v-435a7226 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  height: 90rpx;
+  line-height: 90rpx;
+  font-size: 30rpx;
+  font-family: Source Han Sans CN;
+  font-weight: 400;
+  color: #333333;
+  background: #ffffff;
+  padding-left: 25rpx;
+  box-sizing: border-box;
+  margin-bottom: 2rpx;
+}
+.binding-card .binding > view .w.data-v-435a7226 {
+  margin-right: 65rpx;
+}
+.binding-card .binding > view .text.data-v-435a7226 {
+  font-size: 30rpx;
+  font-family: Source Han Sans CN;
+  font-weight: 400;
+  color: #999999;
+}
+.binding-card .btn.data-v-435a7226 {
+  margin: 50rpx auto;
+  width: 620rpx;
+  height: 90rpx;
+  line-height: 90rpx;
+  background: #cfd0d4;
+  border-radius: 10rpx;
+  font-size: 32rpx;
+  text-align: center;
+  font-family: Source Han Sans CN;
+  font-weight: 400;
+  color: #ffffff;
+}
+

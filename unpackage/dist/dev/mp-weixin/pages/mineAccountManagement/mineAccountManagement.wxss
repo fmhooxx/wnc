@@ -1,0 +1,44 @@
+image.data-v-35ebbf30 {
+  width: 100%;
+  height: 100%;
+}
+.account-management.data-v-35ebbf30 {
+  margin-top: 20rpx;
+  background: #ffffff;
+}
+.account-management .management-box.data-v-35ebbf30 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+  height: 100rpx;
+  line-height: 100rpx;
+  font-size: 26rpx;
+  font-family: PingFang;
+  font-weight: 500;
+  color: #333333;
+  padding: 0 30rpx;
+  border-bottom: 2rpx solid #f1f1f1;
+}
+.account-management .management-box .box-left.data-v-35ebbf30 {
+  font-weight: 400;
+}
+.account-management .management-box .box-right.data-v-35ebbf30 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  font-weight: 400;
+  color: #666666;
+}
+.account-management .management-box .box-right .right-text.data-v-35ebbf30 {
+  font-size: 24rpx;
+  color: #279524;
+  margin-right: 14rpx;
+}
+.account-management .management-box .box-right .right-img.data-v-35ebbf30 {
+  width: 12rpx;
+  height: 22rpx;
+}
+

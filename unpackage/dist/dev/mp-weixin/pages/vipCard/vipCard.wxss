@@ -1,0 +1,204 @@
+
+page {
+  background-color: #fff;
+}
+
+.vip-card.data-v-1a181788 {
+  position: relative;
+  width: 690rpx;
+  height: 249rpx;
+  background: #39ac36;
+  box-shadow: 0px 0px 40rpx 0px rgba(101, 205, 98, 0.2);
+  border-radius: 20rpx;
+  box-sizing: border-box;
+  position: absolute;
+  top: 10rpx;
+  left: 50%;
+  margin-left: -345rpx;
+}
+.vip-card image.data-v-1a181788 {
+  width: 100%;
+  height: 100%;
+}
+.vip-card .header-text.data-v-1a181788 {
+  position: absolute;
+  width: 600rpx;
+  top: 80rpx;
+  left: 40rpx;
+}
+.header-box.data-v-1a181788 {
+  box-sizing: border-box;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+  padding: 0 52rpx 0 40rpx;
+  position: absolute;
+  top: 58rpx;
+  width: 100%;
+}
+.header-box image.data-v-1a181788 {
+  width: 100%;
+  height: 100%;
+}
+.header-box .box-left.data-v-1a181788 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+}
+.header-box .box-left .header-left.data-v-1a181788 {
+  width: 102rpx;
+  height: 102rpx;
+  margin-right: 26rpx;
+}
+.header-box .box-left .header-center .center-uname.data-v-1a181788 {
+  font-size: 34rpx;
+  font-family: PingFang;
+  color: #ffffff;
+}
+.header-box .box-left .header-center .center-member.data-v-1a181788 {
+  width: 128rpx;
+  height: 34rpx;
+  line-height: 34rpx;
+  text-align: center;
+  font-size: 26rpx;
+  font-family: PingFang;
+  border: 1rpx solid #ddb230;
+  border-radius: 17rpx;
+  color: #f5c24a;
+  margin: 10rpx 0 20rpx 0;
+}
+.header-box .box-left .header-center .center-timer.data-v-1a181788 {
+  color: #ffffff;
+  font-family: Source Han Sans CN;
+  font-size: 24rpx;
+  margin-right: 6rpx;
+}
+.header-box .box-right.data-v-1a181788 {
+  width: 126rpx;
+  height: 60rpx;
+  line-height: 60rpx;
+  text-align: center;
+  background: #ddb230;
+  box-shadow: 0rpx 3rpx 7rpx 0rpx rgba(247, 111, 108, 0.35);
+  border-radius: 30rpx;
+  font-size: 30rpx;
+  color: #ffffff;
+  font-family: PingFang;
+  margin-top: 60rpx;
+}
+.title.data-v-1a181788 {
+  width: 442rpx;
+  height: 36rpx;
+  font-size: 34rpx;
+  font-family: Source Han Sans CN;
+  color: #ffffff;
+}
+.cart-left.data-v-1a181788 {
+  font-size: 24rpx;
+  font-family: Source Han Sans CN;
+  color: #ffffff;
+}
+.cart-right.data-v-1a181788 {
+  width: 159rpx;
+  height: 60rpx;
+  background: #ddb230;
+  box-shadow: 0px 3rpx 7rpx 0px rgba(247, 111, 108, 0.35);
+  border-radius: 30rpx;
+  font-size: 30rpx;
+  font-family: PingFang;
+  color: #ffffff;
+  text-align: center;
+  line-height: 60rpx;
+}
+.bottom.data-v-1a181788 {
+  margin-top: 38rpx;
+}
+/* 会员充值列表样式开始 */
+.vip-list.data-v-1a181788 {
+  margin-top: 270rpx;
+}
+.list-info.data-v-1a181788 {
+  padding: 20rpx 30rpx;
+  box-sizing: border-box;
+  margin-bottom: 20rpx;
+  border-bottom: 1rpx solid #ebebeb;
+}
+.list-info .left.data-v-1a181788 {
+  -webkit-align-self: center;
+          align-self: center;
+}
+.list-info .right.data-v-1a181788 {
+  -webkit-align-self: center;
+          align-self: center;
+  width: 126rpx;
+  height: 60rpx;
+  border: 2rpx solid #fe3b0e;
+  box-shadow: 0px 3rpx 7rpx 0px rgba(247, 111, 108, 0.35);
+  border-radius: 30rpx;
+  text-align: center;
+  line-height: 60rpx;
+  font-size: 32rpx;
+  font-family: Source Han Sans CN;
+  color: #fe3b0e;
+}
+.price.data-v-1a181788 {
+  font-size: 38rpx;
+  font-family: PingFang;
+  color: #333333;
+  line-height: 60rpx;
+}
+.type.data-v-1a181788 {
+  font-size: 26rpx;
+  font-family: PingFang;
+  color: #39ac36;
+  line-height: 24rpx;
+}
+.pro.data-v-1a181788 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  font-size: 24rpx;
+  font-family: PingFang;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+          justify-content: center;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  color: #999999;
+  line-height: 23rpx;
+  text-align: center;
+  margin-top: 40rpx;
+}
+.pro .right.data-v-1a181788 {
+  color: #3FAF3C;
+}
+/* 推荐样式开始 */
+.tuijian.data-v-1a181788 {
+  margin-top: 50rpx;
+  padding: 0 30rpx;
+  box-sizing: border-box;
+  margin-bottom: 134rpx;
+}
+.tuijian image.data-v-1a181788 {
+  width: 70rpx;
+  height: 70rpx;
+}
+.tuijian .item.data-v-1a181788 {
+  width: 337rpx;
+  height: 126rpx;
+  background: #ffffff;
+  border: 1rpx solid #cccccc;
+  box-shadow: 0px 3rpx 5rpx 0px rgba(153, 153, 153, 0.3);
+  border-radius: 20rpx;
+  padding: 0 14rpx;
+  box-sizing: border-box;
+}
+.tuijian .item > view.data-v-1a181788 {
+  -webkit-align-self: center;
+          align-self: center;
+}
+

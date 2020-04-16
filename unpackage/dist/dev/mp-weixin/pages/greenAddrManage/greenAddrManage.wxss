@@ -1,0 +1,83 @@
+.addr.data-v-670c8a20 {
+  box-sizing: border-box;
+  margin-top: 26rpx;
+}
+.box.data-v-670c8a20 {
+  background-color: #fff;
+  margin-bottom: 20rpx;
+}
+.addr_do.data-v-670c8a20 {
+  height: 90rpx;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: row;
+          flex-direction: row;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  margin: 0 50rpx 0 20rpx;
+}
+.do view.data-v-670c8a20 {
+  display: inline-block;
+}
+.do view > image.data-v-670c8a20 {
+  margin-right: 12rpx;
+}
+.one.data-v-670c8a20 {
+  margin-right: 50rpx;
+}
+radio.data-v-670c8a20 {
+  -webkit-transform: scale(0.8);
+          transform: scale(0.8);
+  margin-left: -16rpx;
+  color: #666666;
+}
+.do image.data-v-670c8a20 {
+  width: 28rpx;
+  height: 28rpx;
+  vertical-align: middle;
+}
+.addrInfo_details.data-v-670c8a20 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: row;
+          flex-direction: row;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+  margin: 0 0 20rpx 6rpx;
+  padding-top: 10rpx;
+}
+.addrInfo.data-v-670c8a20 {
+  height: 120rpx;
+  padding-bottom: 10rpx;
+  margin: 0 50rpx 0 20rpx;
+  border-bottom: 1rpx solid #efefef;
+}
+/* 底部样式开始 */
+.bottom.data-v-670c8a20 {
+  position: fixed;
+  bottom: 0;
+  left: 50%;
+  margin-left: -375rpx;
+  height: 130rpx;
+  width: 750rpx;
+  background: #ffffff;
+}
+.btn.data-v-670c8a20 {
+  position: relative;
+  top: 50%;
+  left: 50%;
+  margin-top: -42rpx;
+  margin-left: -330rpx;
+}
+

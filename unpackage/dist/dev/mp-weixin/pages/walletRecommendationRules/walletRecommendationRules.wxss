@@ -1,0 +1,13 @@
+page {
+  background-color: #fff;
+}
+
+.recommendation-rules.data-v-4c178410 {
+  font-size: 30rpx;
+  font-family: Source Han Sans CN;
+  font-weight: 400;
+  color: #666666;
+  margin-top: 28rpx;
+  padding: 0 29rpx 0 32rpx;
+}
+

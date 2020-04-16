@@ -1,0 +1,78 @@
+image.data-v-3b25ab0c {
+  width: 100%;
+  height: 100%;
+}
+.my-bank-card.data-v-3b25ab0c {
+  padding: 30rpx 0;
+}
+.my-bank-card .card-title.data-v-3b25ab0c {
+  font-size: 36rpx;
+  font-family: Microsoft YaHei;
+  font-weight: bold;
+  margin-left: 30rpx;
+  color: #333333;
+  margin-bottom: 20rpx;
+}
+.my-bank-card .card-title > text.data-v-3b25ab0c {
+  font-size: 24rpx;
+  font-family: Microsoft YaHei;
+  font-weight: 400;
+  color: #999999;
+  margin-left: 16rpx;
+}
+.my-bank-card .withdrawals-account.data-v-3b25ab0c {
+  position: relative;
+  margin: 20rpx auto;
+  width: 690rpx;
+  height: 310rpx;
+  background: #ffffff;
+  border-radius: 10rpx;
+}
+.my-bank-card .withdrawals-account .account-box.data-v-3b25ab0c {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  margin: auto;
+  width: 348rpx;
+  height: 93rpx;
+  background: #48bc5b;
+  border-radius: 4rpx;
+}
+.my-bank-card .withdrawals-account .account-box .box.data-v-3b25ab0c {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  margin: 26rpx 0 0 62rpx;
+  font-size: 34rpx;
+  font-family: Microsoft YaHei;
+  font-weight: 400;
+  color: #ffffff;
+}
+.my-bank-card .withdrawals-account .account-box .box .box-img.data-v-3b25ab0c {
+  width: 41rpx;
+  height: 41rpx;
+  background-color: #fff;
+  border-radius: 50%;
+  margin-right: 11rpx;
+  vertical-align: middle;
+}
+.list .list-item.data-v-3b25ab0c {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  height: 80rpx;
+  background-color: #fff;
+  padding: 0 30rpx;
+}
+

@@ -1,0 +1,110 @@
+page {
+  background-color: #fff;
+}
+
+image.data-v-da241f1c {
+  width: 100%;
+  height: 100%;
+}
+.box.data-v-da241f1c {
+  width: 100%;
+}
+.base-cates.data-v-da241f1c {
+  position: fixed;
+  height: 100%;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  font-size: 26rpx;
+  color: #666;
+  width: 100%;
+}
+.base-cates .cates-left.data-v-da241f1c {
+  width: 160rpx;
+  background-color: #f7f7f7;
+}
+.base-cates .cates-left .cates-left-box.data-v-da241f1c {
+  position: relative;
+  height: 110rpx;
+  line-height: 110rpx;
+  width: 160rpx;
+  box-sizing: border-box;
+}
+.base-cates .cates-left .cates-left-box .left-text.data-v-da241f1c {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  margin: auto;
+  box-sizing: border-box;
+  text-align: center;
+  height: 64rpx;
+  line-height: 64rpx;
+  color: #666;
+  border-left: 6rpx solid transparent;
+}
+.base-cates .cates-left .cates-left-box .active.data-v-da241f1c {
+  background-color: #fff;
+  border-left: 6rpx solid #279524;
+  color: #333;
+}
+.base-cates .cates-left .bgc.data-v-da241f1c {
+  background-color: #fff;
+}
+.base-cates .cates-right.data-v-da241f1c {
+  background-color: #fff;
+  margin-left: 20rpx;
+  border-top: 1rpx solid #f7f7f7;
+}
+.base-cates .cates-right .right.data-v-da241f1c {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  position: relative;
+  height: 210rpx;
+  border-bottom: 1rpx solid #f7f7f7;
+}
+.base-cates .cates-right .right .item-img.data-v-da241f1c {
+  width: 244rpx;
+  height: 160rpx;
+  margin-right: 22rpx;
+  margin: 28rpx 22rpx 0 0;
+}
+.base-cates .cates-right .right .title.data-v-da241f1c {
+  font-size: 28rpx;
+  color: #333;
+  margin-top: 30rpx;
+}
+.base-cates .cates-right .right .title > text.data-v-da241f1c {
+  margin-left: 20rpx;
+}
+.base-cates .cates-right .right .introduce.data-v-da241f1c {
+  font-size: 24rpx;
+  font-family: Microsoft YaHei;
+  font-weight: 400;
+  color: #999999;
+  margin: 10rpx 0 34rpx 0;
+}
+.base-cates .cates-right .right .new.data-v-da241f1c {
+  color: #ff4543;
+  font-size: 32rpx;
+  margin-bottom: 15rpx;
+}
+.base-cates .cates-right .right .new > text.data-v-da241f1c {
+  font-size: 24rpx;
+}
+.base-cates .cates-right .right .item-footer.data-v-da241f1c {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+}
+.base-cates .cates-right .right .item-footer .jiahao.data-v-da241f1c {
+  width: 50rpx;
+  height: 50rpx;
+  margin-right: 22rpx;
+  position: absolute;
+  right: 0;
+  bottom: 24rpx;
+}
+

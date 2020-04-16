@@ -1,0 +1,380 @@
+{
+	"pages": [{
+		"path": "pages/index/index",
+		"style": {
+			"navigationBarTitleText": "蛙农场"
+		}
+	}, {
+		"path": "pages/loginRegister/loginRegister",
+		"style": {}
+	}, {
+		"path": "pages/login/login",
+		"style": {
+			"navigationBarBackgroundColor": "#fff"
+		}
+	}, {
+		"path": "pages/goods/goods",
+		"style": {
+			"navigationBarTitleText": "商圈",
+			"navigationBarTextStyle": "white",
+			"navigationBarBackgroundColor": "#48BC5B",
+			"backgroundColor": "#F8F8F8"
+		}
+	}, {
+		"path": "pages/expect/expect",
+		"style": {
+			"navigationBarTitleText": "消息"
+		}
+	}, {
+		"path": "pages/greenAddrManageAdd/greenAddrManageAdd",
+		"style": {
+			"navigationBarTitleText": "新建地址"
+		}
+	}, {
+		"path": "pages/goodsDetailsInfo/goodsDetailsInfo",
+		"style": {
+			"navigationBarTitleText": "商品详情页"
+		}
+	}, {
+		"path": "pages/confirmOrder/confirmOrder",
+		"style": {
+			"navigationBarTitleText": "确认订单"
+		}
+	}, {
+		"path": "pages/greenAddrManage/greenAddrManage",
+		"style": {
+			"navigationBarTitleText": "地址管理"
+		}
+	}, {
+		"path": "pages/vipManage/vipManage",
+		"style": {
+			"navigationBarTitleText": "会员管理"
+		}
+	}, {
+		"path": "pages/vipGoodsManage/vipGoodsManage",
+		"style": {
+			"navigationBarTitleText": "商品管理"
+		}
+	}, {
+		"path": "pages/vipDefaultTaoCan/vipDefaultTaoCan",
+		"style": {
+			"navigationBarTitleText": "默认套餐"
+		}
+	}, {
+		"path": "pages/vipGoodsDetailsInfo/vipGoodsDetailsInfo",
+		"style": {
+			"navigationBarTitleText": "年卡套餐详情"
+		}
+	}, {
+		"path": "pages/vipCard/vipCard",
+		"style": {
+			"navigationBarTitleText": "个人中心-会员",
+			"navigationBarTextStyle": "white",
+			"navigationBarBackgroundColor": "#333"
+		}
+	}, {
+		"path": "pages/orderPaySuccess/orderPaySuccess",
+		"style": {
+			"navigationBarTitleText": "支付成功"
+		}
+	}, {
+		"path": "pages/orderPay/orderPay",
+		"style": {
+			"navigationBarTitleText": "支付"
+		}
+	}, {
+		"path": "pages/greenOrderList/greenOrderList",
+		"style": {
+			"navigationBarTitleText": "绿色健康订单"
+		}
+	}, {
+		"path": "pages/greenOrderDetails/greenOrderDetails",
+		"style": {
+			"navigationBarBackgroundColor": "#279524",
+			"backgroundColor": "#F8F8F8"
+		}
+	}, {
+		"path": "pages/greenOrderDetailBeizhu/greenOrderDetailBeizhu",
+		"style": {
+			"navigationBarTitleText": "支付备注"
+		}
+	}, {
+		"path": "pages/greenNewGoods/greenNewGoods",
+		"style": {
+			"navigationBarTitleText": "个人中心商品管理"
+		}
+	}, {
+		"path": "pages/greenHealth/greenHealth",
+		"style": {
+			"navigationBarTitleText": "绿色健康"
+		}
+	}, {
+		"path": "pages/greenCart/greenCart",
+		"style": {
+			"navigationBarTitleText": "购物车"
+		}
+	}, {
+		"path": "pages/pick/pick",
+		"style": {
+			"navigationBarTitleText": "取货"
+		}
+	}, {
+		"path": "pages/mine/mine",
+		"style": {
+			"navigationBarTitleText": "个人中心"
+		}
+	}, {
+		"path": "pages/cart/cart",
+		"style": {
+			"navigationBarTitleText": "购物车"
+		}
+	}, {
+		"path": "components/BaseTabbar"
+	}, {
+		"path": "pages/goodsRelease/goodsRelease",
+		"style": {
+			"navigationBarTitleText": "发布"
+		}
+	}, {
+		"path": "components/BasePopup/BasePopup",
+		"style": {}
+	}, {
+		"path": "pages/vipGive/vipGive",
+		"style": {
+			"navigationBarTitleText": "会员赠送",
+			"navigationBarTextStyle": "white",
+			"navigationBarBackgroundColor": "#333"
+		}
+	}, {
+		"path": "pages/details/details",
+		"style": {
+			"navigationBarTitleText": "查看更多"
+		}
+	}, {
+		"path": "components/suspension/suspension",
+		"style": {}
+	}, {
+		"path": "pages/vipGiveRecord/vipGiveRecord",
+		"style": {
+			"navigationBarTitleText": "赠送记录"
+		}
+	}, {
+		"path": "pages/wallet/wallet",
+		"style": {
+			"navigationBarTitleText": "我的钱包"
+		}
+	}, {
+		"path": "pages/walletCashWithdrawal/walletCashWithdrawal",
+		"style": {
+			"navigationBarTitleText": "提现"
+		}
+	}, {
+		"path": "pages/walletBindingCard/walletBindingCard",
+		"style": {
+			"navigationBarTitleText": "绑定银行卡"
+		}
+	}, {
+		"path": "pages/walletChoiceBankCard/walletChoiceBankCard",
+		"style": {
+			"navigationBarTitleText": "选择银行卡"
+		}
+	}, {
+		"path": "pages/walletRecommendationRules/walletRecommendationRules",
+		"style": {
+			"navigationBarTitleText": "推荐规则"
+		}
+	}, {
+		"path": "pages/myOrder/myOrder",
+		"style": {
+			"navigationBarTitleText": "我的订单"
+		}
+	}, {
+		"path": "pages/greenStayPayment/greenStayPayment",
+		"style": {
+			"navigationBarTitleText": "绿色健康: 待支付",
+			"navigationBarTextStyle": "white",
+			"navigationBarBackgroundColor": "#FC6A5D",
+			"backgroundColor": "#F8F8F8"
+		}
+	}, {
+		"path": "pages/walletRecommendationDetails/walletRecommendationDetails",
+		"style": {
+			"navigationBarTitleText": "推荐明细"
+			// "enablePullDownRefresh": true
+		}
+	}, {
+		"path": "pages/walletMyTeam/walletMyTeam",
+		"style": {
+			"navigationBarTitleText": "我的团队",
+			"navigationBarTextStyle": "white",
+			"navigationBarBackgroundColor": "#48BC5B"
+		}
+	}, {
+		"path": "pages/walletHisFriend/walletHisFriend",
+		"style": {
+			"navigationBarTitleText": "他的好友"
+		}
+	}, {
+		"path": "pages/walletWithdrawalRules/walletWithdrawalRules",
+		"style": {
+			"navigationBarTitleText": "提现规则"
+		}
+	}, {
+		"path": "pages/walletMyBankCard/walletMyBankCard",
+		"style": {
+			"navigationBarTitleText": "我的银行卡"
+		}
+	}, {
+		"path": "pages/mineRecommendCourtesy/mineRecommendCourtesy",
+		"style": {
+			"navigationBarTitleText": "推荐有礼"
+		}
+	}, {
+		"path": "pages/mineAccountManagement/mineAccountManagement",
+		"style": {
+			"navigationBarTitleText": "账户管理"
+		}
+	}, {
+		"path": "pages/mineSetUp/mineSetUp",
+		"style": {
+			"navigationBarTitleText": "设置"
+		}
+	}, {
+		"path": "pages/loginSetLoginPassword/loginSetLoginPassword",
+		"style": {}
+	}, {
+		"path": "pages/loginInvitationCode/loginInvitationCode",
+		"style": {}
+	}, {
+		"path": "pages/loginChangepasswordCode/loginChangepasswordCode",
+		"style": {}
+	}, {
+		"path": "pages/loginChangePassword/loginChangePassword",
+		"style": {}
+	}, {
+		"path": "pages/mineUserInformation/mineUserInformation",
+		"style": {
+			"navigationBarTitleText": "用户信息"
+		}
+	}, {
+		"path": "pages/mineNickname/mineNickname",
+		"style": {
+			"navigationBarTitleText": "昵称"
+		}
+	}, {
+		"path": "pages/mineVerificationCode/mineVerificationCode",
+		"style": {
+			"navigationBarTitleText": "填写验证码"
+		}
+	}, {
+		"path": "pages/mineVerificationCodeSuccess/mineVerificationCodeSuccess",
+		"style": {
+			"navigationBarTitleText": "更换完成"
+		}
+	}, {
+		"path": "pages/mineAfterSaleService/mineAfterSaleService",
+		"style": {
+			"navigationBarTitleText": "售后服务"
+		}
+	}, {
+		"path": "pages/mineCommonProblem/mineCommonProblem",
+		"style": {
+			"navigationBarTitleText": "常见问题"
+		}
+	}, {
+		"path": "pages/mineAboutUs/mineAboutUs",
+		"style": {
+			"navigationBarTitleText": "关于我们"
+		}
+	}, {
+		"path": "pages/mineFeedback/mineFeedback",
+		"style": {
+			"navigationBarTitleText": "意见反馈"
+		}
+	}, {
+		"path": "pages/walletPresentationDetails/walletPresentationDetails",
+		"style": {
+			"navigationBarTitleText": "提现明细"
+		}
+	}, {
+		"path": "pages/walletSuccessfulWithdrawals/walletSuccessfulWithdrawals",
+		"style": {
+			"navigationBarTitleText": "提现进度"
+		}
+	}, {
+		"path": "pages/indexLocation/indexLocation",
+		"style": {
+			"navigationBarTitleText": "我的位置"
+		}
+	}, {
+		"path": "pages/indexNews/indexNews",
+		"style": {}
+	}, {
+		"path": "pages/indexNewsDetails/indexNewsDetails",
+		"style": {
+			"navigationBarTitleText": "消息详情"
+		}
+	}, {
+		"path": "pages/vipMemberManagementRules/vipMemberManagementRules",
+		"style": {
+			"navigationBarTitleText": "会员管理规则"
+		}
+	}, {
+		"path": "pages/vipMemberAgreement/vipMemberAgreement",
+		"style": {}
+	}, {
+		"path": "pages/vipPurchaseRecord/vipPurchaseRecord",
+		"style": {
+			"navigationBarTitleText": "购买记录"
+		}
+	}, {
+		"path": "pages/indexBanner/indexBanner",
+		"style": {}
+	}, {
+		"path": "pages/indexSwiperBanner/indexSwiperBanner",
+		"style": {}
+	}, {
+		"path": "pages/loginPhone/loginPhone",
+		"style": {}
+	}],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarBackgroundColor": "#fff",
+		"backgroundColor": "#F8F8F8"
+	},
+	"tabBar": {
+		"color": "#525252",
+		"selectedColor": "#017f0d",
+		"list": [{
+				"selectedIconPath": "/static/images/index2.png",
+				"iconPath": "/static/images/index.png",
+				"pagePath": "pages/index/index",
+				"text": "首页"
+			},
+			{
+				"selectedIconPath": "/static/images/pick2.png",
+				"iconPath": "/static/images/pick.png",
+				"pagePath": "pages/pick/pick",
+				"text": "取货"
+			},
+			{
+				"selectedIconPath": "/static/images/goods2.png",
+				"iconPath": "/static/images/goods.png",
+				"pagePath": "pages/goods/goods",
+				"text": "商圈"
+			},
+			{
+				"selectedIconPath": "/static/images/cart2.png",
+				"iconPath": "/static/images/cart.png",
+				"pagePath": "pages/greenCart/greenCart",
+				"text": "购物车"
+			},
+			{
+				"selectedIconPath": "/static/images/mine2.png",
+				"iconPath": "/static/images/mine.png",
+				"pagePath": "pages/mine/mine",
+				"text": "我的"
+			}
+		]
+	}
+}

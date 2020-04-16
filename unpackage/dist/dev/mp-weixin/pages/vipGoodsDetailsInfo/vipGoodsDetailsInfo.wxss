@@ -1,0 +1,228 @@
+swiper.data-v-0a07a5c8 {
+  height: 580rpx;
+}
+swiper-item > image.data-v-0a07a5c8 {
+  width: 100%;
+  height: 452rpx;
+}
+.shop-img.data-v-0a07a5c8 {
+  background-color: #fff;
+}
+.shop-img > image.data-v-0a07a5c8 {
+  width: 750rpx;
+  height: 580rpx;
+  vertical-align: middle;
+}
+/* 轮播图详情结束 */
+.swiper-info.data-v-0a07a5c8 {
+  background: white;
+  padding-left: 20rpx;
+  box-sizing: border-box;
+}
+.swiper-info-title.data-v-0a07a5c8 {
+  font-size: 40rpx;
+  font-family: Microsoft YaHei;
+  font-weight: bold;
+  color: #333333;
+}
+.swiper-info-introduce.data-v-0a07a5c8 {
+  margin: 20rpx 0;
+  font-size: 26rpx;
+  font-family: Source Han Sans CN;
+  font-weight: 400;
+  color: #666666;
+}
+.share.data-v-0a07a5c8 {
+  font-size: 28rpx;
+  font-family: Source Han Sans CN;
+  font-weight: 500;
+  color: #fff;
+  position: absolute;
+  right: 0;
+  min-width: 210rpx;
+  height: 70rpx;
+  background: #fd484d;
+  border-radius: 36rpx 0px 0px 36rpx;
+  line-height: 70rpx;
+  text-align: center;
+  color: white;
+}
+.ordinary-price.data-v-0a07a5c8 {
+  text-decoration: line-through;
+  font-size: 30rpx;
+  font-family: Source Han Sans CN;
+  font-weight: bold;
+  color: #279524;
+  margin-bottom: 20rpx;
+}
+.mon.data-v-0a07a5c8 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-align: end;
+  -webkit-align-items: flex-end;
+          align-items: flex-end;
+}
+.mon .price.data-v-0a07a5c8 {
+  font-size: 64rpx;
+  font-family: Source Han Sans CN;
+  font-weight: 500;
+  color: #fd484d;
+}
+.mon .price > text.data-v-0a07a5c8 {
+  font-size: 32rpx;
+  margin-left: 12rpx;
+}
+.mon .member.data-v-0a07a5c8 {
+  position: relative;
+  margin-left: 30rpx;
+}
+.mon .member > image.data-v-0a07a5c8 {
+  width: 90rpx;
+  height: 33rpx;
+}
+.mon .member > view.data-v-0a07a5c8 {
+  position: absolute;
+  top: 0;
+  left: 10rpx;
+  font-size: 25rpx;
+  font-family: Microsoft YaHei;
+  font-weight: bold;
+  color: red;
+  color: #fff;
+}
+/* 服务样式 */
+.introduce.data-v-0a07a5c8 {
+  background-color: white;
+}
+.server.data-v-0a07a5c8 {
+  background: white;
+  margin-top: 20rpx;
+  padding: 20rpx;
+  box-sizing: border-box;
+}
+.server view.data-v-0a07a5c8 {
+  padding: 28rpx 0;
+  box-sizing: border-box;
+}
+.title.data-v-0a07a5c8 {
+  font-size: 34rpx;
+  font-family: Microsoft YaHei;
+  font-weight: bold;
+  color: #333333;
+  border-bottom: 1rpx solid #d9d9d9;
+}
+.sub-title.data-v-0a07a5c8 {
+  font-size: 24rpx;
+  font-family: Source Han Sans CN;
+  font-weight: 400;
+  color: #333333;
+  border-bottom: 1rpx solid #d9d9d9;
+  box-sizing: border-box;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+}
+.sub-title-left.data-v-0a07a5c8 {
+  font-size: 28rpx;
+  min-width: 130rpx;
+  display: inline-block;
+  margin-right: 10rpx;
+}
+.sub-title-right.data-v-0a07a5c8 {
+  width: 520rpx;
+  font-size: 28rpx;
+  display: inline-block;
+  overflow: hidden;
+  white-space: nowrap;
+}
+.w.data-v-0a07a5c8 {
+  white-space: normal !important;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 2;
+}
+.y.data-v-0a07a5c8 {
+  display: -webkit-box;
+}
+.h.data-v-0a07a5c8 {
+  height: 170rpx;
+}
+/* 详情图样式 */
+.detail.data-v-0a07a5c8 {
+  text-align: center;
+  background: white;
+  margin-top: 20rpx;
+}
+.img-title.data-v-0a07a5c8 {
+  font-size: 34rpx;
+  font-family: Microsoft YaHei;
+  font-weight: bold;
+  color: #333333;
+  padding: 32rpx 20rpx;
+  box-sizing: border-box;
+  float: left;
+}
+.detail-img.data-v-0a07a5c8 {
+  width: 100%;
+  display: block;
+  height: 16930rpx;
+}
+/* 回到顶部样式 */
+.upTop.data-v-0a07a5c8 {
+  position: fixed;
+  right: 22rpx;
+  bottom: 130rpx;
+  width: 70rpx;
+  height: 70rpx;
+  z-index: 994;
+  background: #fff;
+  border-radius: 50%;
+  border: 1px solid #cacaca;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  opacity: 0.5;
+}
+.upTop > image.data-v-0a07a5c8 {
+  width: 100%;
+  height: 100%;
+}
+/* 底部功能栏开始 */
+.user-defined.data-v-0a07a5c8 {
+  width: 750rpx;
+  height: 98rpx;
+  padding-left: 24rpx;
+  box-sizing: border-box;
+  background: #ffffff;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+}
+.toClear.data-v-0a07a5c8 {
+  margin-top: 16rpx;
+  float: right;
+  font-size: 28rpx;
+  width: 220rpx;
+  height: 70rpx;
+  background: #279524;
+  border-radius: 34rpx;
+  text-align: center;
+  line-height: 70rpx;
+  -webkit-align-self: center;
+          align-self: center;
+  margin-right: 30rpx;
+  color: white;
+}
+

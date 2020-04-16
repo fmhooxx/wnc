@@ -1,0 +1,21 @@
+.textarea.data-v-22c830e8 {
+  height: 290rpx;
+  background: #ffffff;
+  border: 1rpx solid #eeeeee;
+  padding: 30rpx;
+  box-sizing: border-box;
+}
+.history-list.data-v-22c830e8 {
+  width: 390rpx;
+  height: 60rpx;
+  background: #ffffff;
+  border: 2rpx solid #e5e5e5;
+  border-radius: 30rpx;
+  text-align: center;
+  line-height: 60rpx;
+  margin: 20rpx 30rpx;
+}
+.btn.data-v-22c830e8 {
+  margin-top: 50rpx;
+}
+

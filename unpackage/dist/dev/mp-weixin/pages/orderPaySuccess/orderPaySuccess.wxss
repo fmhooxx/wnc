@@ -1,0 +1,47 @@
+
+page {
+  background-color: #fff;
+}
+
+.succ-box.data-v-672d3b80 {
+  width: 200rpx;
+  height: 200rpx;
+  margin: 0 auto;
+  margin-top: 100rpx;
+  text-align: center;
+}
+.succ-box image.data-v-672d3b80 {
+  width: 90rpx;
+  height: 90rpx;
+}
+.succ.data-v-672d3b80 {
+  font-size: 34rpx;
+  font-family: Source Han Sans CN;
+  font-weight: 400;
+  color: #333333;
+}
+/* 底部按钮样式 */
+.btn-box.data-v-672d3b80 {
+  padding: 0 30rpx;
+}
+.btn.data-v-672d3b80 {
+  width: 320rpx;
+  height: 80rpx;
+  border: 2rpx solid #279524;
+  border-radius: 40rpx;
+  text-align: center;
+  line-height: 80rpx;
+  color: #fff;
+  font-size: 30rpx;
+}
+.btn-left.data-v-672d3b80 {
+  background: #279524;
+}
+.btn-right.data-v-672d3b80 {
+  font-size: 30rpx;
+  font-family: Source Han Sans CN;
+  font-weight: 500;
+  color: #279524;
+  background: #ffffff;
+}
+

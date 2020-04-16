@@ -1,0 +1,125 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/loginRegister/loginRegister",
+    "pages/login/login",
+    "pages/goods/goods",
+    "pages/expect/expect",
+    "pages/greenAddrManageAdd/greenAddrManageAdd",
+    "pages/goodsDetailsInfo/goodsDetailsInfo",
+    "pages/confirmOrder/confirmOrder",
+    "pages/greenAddrManage/greenAddrManage",
+    "pages/vipManage/vipManage",
+    "pages/vipGoodsManage/vipGoodsManage",
+    "pages/vipDefaultTaoCan/vipDefaultTaoCan",
+    "pages/vipGoodsDetailsInfo/vipGoodsDetailsInfo",
+    "pages/vipCard/vipCard",
+    "pages/orderPaySuccess/orderPaySuccess",
+    "pages/orderPay/orderPay",
+    "pages/greenOrderList/greenOrderList",
+    "pages/greenOrderDetails/greenOrderDetails",
+    "pages/greenOrderDetailBeizhu/greenOrderDetailBeizhu",
+    "pages/greenNewGoods/greenNewGoods",
+    "pages/greenHealth/greenHealth",
+    "pages/greenCart/greenCart",
+    "pages/pick/pick",
+    "pages/mine/mine",
+    "pages/cart/cart",
+    "components/BaseTabbar",
+    "pages/goodsRelease/goodsRelease",
+    "components/BasePopup/BasePopup",
+    "pages/vipGive/vipGive",
+    "pages/details/details",
+    "components/suspension/suspension",
+    "pages/vipGiveRecord/vipGiveRecord",
+    "pages/wallet/wallet",
+    "pages/walletCashWithdrawal/walletCashWithdrawal",
+    "pages/walletBindingCard/walletBindingCard",
+    "pages/walletChoiceBankCard/walletChoiceBankCard",
+    "pages/walletRecommendationRules/walletRecommendationRules",
+    "pages/myOrder/myOrder",
+    "pages/greenStayPayment/greenStayPayment",
+    "pages/walletRecommendationDetails/walletRecommendationDetails",
+    "pages/walletMyTeam/walletMyTeam",
+    "pages/walletHisFriend/walletHisFriend",
+    "pages/walletWithdrawalRules/walletWithdrawalRules",
+    "pages/walletMyBankCard/walletMyBankCard",
+    "pages/mineRecommendCourtesy/mineRecommendCourtesy",
+    "pages/mineAccountManagement/mineAccountManagement",
+    "pages/mineSetUp/mineSetUp",
+    "pages/loginSetLoginPassword/loginSetLoginPassword",
+    "pages/loginInvitationCode/loginInvitationCode",
+    "pages/loginChangepasswordCode/loginChangepasswordCode",
+    "pages/loginChangePassword/loginChangePassword",
+    "pages/mineUserInformation/mineUserInformation",
+    "pages/mineNickname/mineNickname",
+    "pages/mineVerificationCode/mineVerificationCode",
+    "pages/mineVerificationCodeSuccess/mineVerificationCodeSuccess",
+    "pages/mineAfterSaleService/mineAfterSaleService",
+    "pages/mineCommonProblem/mineCommonProblem",
+    "pages/mineAboutUs/mineAboutUs",
+    "pages/mineFeedback/mineFeedback",
+    "pages/walletPresentationDetails/walletPresentationDetails",
+    "pages/walletSuccessfulWithdrawals/walletSuccessfulWithdrawals",
+    "pages/indexLocation/indexLocation",
+    "pages/indexNews/indexNews",
+    "pages/indexNewsDetails/indexNewsDetails",
+    "pages/vipMemberManagementRules/vipMemberManagementRules",
+    "pages/vipMemberAgreement/vipMemberAgreement",
+    "pages/vipPurchaseRecord/vipPurchaseRecord",
+    "pages/indexBanner/indexBanner",
+    "pages/indexSwiperBanner/indexSwiperBanner",
+    "pages/loginPhone/loginPhone"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarBackgroundColor": "#fff",
+    "backgroundColor": "#F8F8F8"
+  },
+  "tabBar": {
+    "color": "#525252",
+    "selectedColor": "#017f0d",
+    "list": [
+      {
+        "selectedIconPath": "/static/images/index2.png",
+        "iconPath": "/static/images/index.png",
+        "pagePath": "pages/index/index",
+        "text": "首页"
+      },
+      {
+        "selectedIconPath": "/static/images/pick2.png",
+        "iconPath": "/static/images/pick.png",
+        "pagePath": "pages/pick/pick",
+        "text": "取货"
+      },
+      {
+        "selectedIconPath": "/static/images/goods2.png",
+        "iconPath": "/static/images/goods.png",
+        "pagePath": "pages/goods/goods",
+        "text": "商圈"
+      },
+      {
+        "selectedIconPath": "/static/images/cart2.png",
+        "iconPath": "/static/images/cart.png",
+        "pagePath": "pages/greenCart/greenCart",
+        "text": "购物车"
+      },
+      {
+        "selectedIconPath": "/static/images/mine2.png",
+        "iconPath": "/static/images/mine.png",
+        "pagePath": "pages/mine/mine",
+        "text": "我的"
+      }
+    ]
+  },
+  "permission": {
+    "scope.userLocation": {
+      "desc": "页面展示效果"
+    }
+  },
+  "usingComponents": {
+    "base-tabbar": "/components/BaseTabbar",
+    "suspension": "/components/suspension/suspension"
+  }
+}

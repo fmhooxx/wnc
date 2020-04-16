@@ -1,0 +1,181 @@
+image.data-v-78a2038c {
+  width: 100%;
+  height: 100%;
+  vertical-align: middle;
+}
+.order .active.data-v-78a2038c {
+  color: #279524 !important;
+  border-bottom: 4rpx solid #279524;
+}
+.order .tabs.data-v-78a2038c {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  height: 86rpx;
+  line-height: 86rpx;
+  margin-bottom: 20rpx;
+}
+.order .tabs .tabs-item.data-v-78a2038c {
+  font-size: 30rpx;
+  text-align: center;
+  margin: auto;
+  font-family: Source Han Sans CN;
+  font-weight: 400;
+  color: #666666;
+}
+.order .list.data-v-78a2038c {
+  margin-top: 20rpx;
+}
+.order .list .list-item.data-v-78a2038c {
+  background-color: #fff;
+  padding: 0 30rpx;
+  width: 750rpx;
+  box-sizing: border-box;
+}
+.order .list .list-item .item-head.data-v-78a2038c {
+  height: 92rpx;
+  line-height: 92rpx;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  border-bottom: 1rpx solid #dcdcdc;
+}
+.order .list .list-item .item-head .head-left.data-v-78a2038c {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+}
+.order .list .list-item .item-head .head-left .left-img.data-v-78a2038c {
+  width: 40rpx;
+  height: 40rpx;
+  margin-right: 16rpx;
+}
+.order .list .list-item .item-head .head-left .left-text.data-v-78a2038c {
+  font-size: 30rpx;
+  font-family: Source Han Sans CN;
+  font-weight: bold;
+  color: #333333;
+}
+.order .list .list-item .item-head .head-left .green-left-text.data-v-78a2038c {
+  font-size: 24rpx;
+  font-family: Source Han Sans CN;
+  font-weight: 400;
+  color: #666666;
+}
+.order .list .list-item .item-head .head-right.data-v-78a2038c {
+  font-size: 26rpx;
+  font-family: Source Han Sans CN;
+  font-weight: 400;
+  color: #666666;
+}
+.order .list .list-item .item-footer.data-v-78a2038c {
+  position: relative;
+  height: 224rpx;
+  margin-top: 30rpx;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+  margin-bottom: 8rpx;
+}
+.order .list .list-item .green-item-footer.data-v-78a2038c {
+  height: 425rpx !important;
+}
+.order .list .list-item .footer-left.data-v-78a2038c {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+}
+.order .list .list-item .footer-left .footer-img.data-v-78a2038c {
+  width: 100rpx;
+  height: 94rpx;
+  margin-right: 41rpx;
+}
+.order .list .list-item .footer-left .greem-footer-img.data-v-78a2038c {
+  width: 110rpx;
+  height: 110rpx;
+  border-radius: 10rpx;
+  margin: 11rpx;
+}
+.order .list .list-item .footer-left .footer-text.data-v-78a2038c {
+  font-size: 26rpx;
+  font-family: Source Han Sans CN;
+  font-weight: 400;
+  color: #666666;
+}
+.order .list .list-item .footer-left .footer-text .text-end.data-v-78a2038c {
+  margin-top: 16rpx;
+}
+.order .list .list-item .footer-left .footer-week-img.data-v-78a2038c {
+  width: 160rpx;
+  height: 110rpx;
+  margin-right: 31rpx;
+}
+.order .list .list-item .footer-left .footer-text.data-v-78a2038c {
+  font-family: Source Han Sans CN;
+  font-weight: 400;
+}
+.order .list .list-item .footer-left .footer-text .week-title.data-v-78a2038c {
+  color: #333333;
+  font-weight: bold;
+  font-size: 34rpx;
+}
+.order .list .list-item .footer-left .footer-text .week-time.data-v-78a2038c {
+  font-size: 24rpx;
+  color: #666666;
+  margin: 10rpx 0;
+}
+.order .list .list-item .footer-left .footer-text .week-price.data-v-78a2038c {
+  font-size: 24rpx;
+  color: #ff4543;
+}
+.order .list .list-item .footer-right.data-v-78a2038c {
+  position: absolute;
+  bottom: 20rpx;
+  right: 0;
+}
+.order .list .list-item .footer-right .right-box.data-v-78a2038c {
+  font-size: 24rpx;
+  font-family: Microsoft YaHei;
+  font-weight: 400;
+  color: #666666;
+  margin-bottom: 60rpx;
+}
+.order .list .list-item .footer-right .right-box .price.data-v-78a2038c {
+  font-size: 20rpx;
+  color: #333;
+  font-weight: 500;
+}
+.order .list .list-item .footer-right .right-box .num.data-v-78a2038c {
+  font-size: 26rpx;
+  color: #333;
+  font-weight: 500;
+}
+.order .list .list-item .footer-right .right-box .zero.data-v-78a2038c {
+  font-size: 20rpx;
+  font-weight: 500;
+  color: #333;
+}
+.order .list .list-item .footer-right .right-text.data-v-78a2038c {
+  width: 150rpx;
+  height: 56rpx;
+  float: right;
+  line-height: 56rpx;
+  text-align: center;
+  background: #ffffff;
+  border: 2rpx solid #e5e5e5;
+  border-radius: 28rpx;
+  font-size: 26rpx;
+  font-family: Source Han Sans CN;
+  font-weight: 400;
+  color: #666666;
+}
+

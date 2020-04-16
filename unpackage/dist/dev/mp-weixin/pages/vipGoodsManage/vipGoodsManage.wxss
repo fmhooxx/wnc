@@ -1,0 +1,28 @@
+.manage.data-v-d4fad528 {
+  background: white;
+  padding: 0 30rpx;
+  box-sizing: border-box;
+}
+.manage image.data-v-d4fad528 {
+  width: 13rpx;
+  height: 22rpx;
+}
+.manage > view.data-v-d4fad528 {
+  height: 100rpx;
+  border-bottom: 2rpx solid #e7e7e7;
+}
+.manage > view view.data-v-d4fad528 {
+  -webkit-align-self: center;
+          align-self: center;
+}
+.default.data-v-d4fad528 {
+  font-size: 30rpx;
+  font-family: Microsoft YaHei;
+  font-weight: 400;
+  color: #999999;
+  margin-left: 400rpx;
+}
+.btn.data-v-d4fad528 {
+  margin-top: 44rpx;
+}
+
